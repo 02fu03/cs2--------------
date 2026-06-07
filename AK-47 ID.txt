@@ -1,0 +1,5008 @@
+======================================================================
+CS2 AK-47 饰品数据
+生成时间: 2026-06-02 19:52:09
+数据总量: 499 条
+======================================================================
+
+【分类统计】
+AK-47：291 条
+AK-47（纪念品）：39 条
+AK-47（StatTrak™）：167 条
+印花：2 条
+
+【明细列表】
+
+序号：1
+ID：30
+名称：AK-47 | 精英之作 (战痕累累)
+哈希名：AK-47 | Elite Build (Battle-Scarred)
+
+序号：2
+ID：35
+名称：AK-47 | 卡特尔 (久经沙场)
+哈希名：AK-47 | Cartel (Field-Tested)
+
+序号：3
+ID：37
+名称：AK-47 | 深海复仇 (战痕累累)
+哈希名：AK-47 | Aquamarine Revenge (Battle-Scarred)
+
+序号：4
+ID：38
+名称：AK-47 | 深海复仇 (崭新出厂)
+哈希名：AK-47 | Aquamarine Revenge (Factory New)
+
+序号：5
+ID：39
+名称：AK-47 | 深海复仇 (久经沙场)
+哈希名：AK-47 | Aquamarine Revenge (Field-Tested)
+
+序号：6
+ID：40
+名称：AK-47 | 深海复仇 (破损不堪)
+哈希名：AK-47 | Aquamarine Revenge (Well-Worn)
+
+序号：7
+ID：41
+名称：AK-47 | 黑色层压板 (战痕累累)
+哈希名：AK-47 | Black Laminate (Battle-Scarred)
+
+序号：8
+ID：42
+名称：AK-47 | 黑色层压板 (崭新出厂)
+哈希名：AK-47 | Black Laminate (Factory New)
+
+序号：9
+ID：43
+名称：AK-47 | 黑色层压板 (久经沙场)
+哈希名：AK-47 | Black Laminate (Field-Tested)
+
+序号：10
+ID：44
+名称：AK-47 | 黑色层压板 (略有磨损)
+哈希名：AK-47 | Black Laminate (Minimal Wear)
+
+序号：11
+ID：45
+名称：AK-47 | 黑色层压板 (破损不堪)
+哈希名：AK-47 | Black Laminate (Well-Worn)
+
+序号：12
+ID：46
+名称：AK-47 | 血腥运动 (崭新出厂)
+哈希名：AK-47 | Bloodsport (Factory New)
+
+序号：13
+ID：47
+名称：AK-47 | 血腥运动 (久经沙场)
+哈希名：AK-47 | Bloodsport (Field-Tested)
+
+序号：14
+ID：48
+名称：AK-47 | 血腥运动 (略有磨损)
+哈希名：AK-47 | Bloodsport (Minimal Wear)
+
+序号：15
+ID：49
+名称：AK-47 | 血腥运动 (破损不堪)
+哈希名：AK-47 | Bloodsport (Well-Worn)
+
+序号：16
+ID：50
+名称：AK-47 | 蓝色层压板 (崭新出厂)
+哈希名：AK-47 | Blue Laminate (Factory New)
+
+序号：17
+ID：51
+名称：AK-47 | 蓝色层压板 (久经沙场)
+哈希名：AK-47 | Blue Laminate (Field-Tested)
+
+序号：18
+ID：52
+名称：AK-47 | 蓝色层压板 (略有磨损)
+哈希名：AK-47 | Blue Laminate (Minimal Wear)
+
+序号：19
+ID：53
+名称：AK-47 | 蓝色层压板 (破损不堪)
+哈希名：AK-47 | Blue Laminate (Well-Worn)
+
+序号：20
+ID：54
+名称：AK-47 | 卡特尔 (战痕累累)
+哈希名：AK-47 | Cartel (Battle-Scarred)
+
+序号：21
+ID：55
+名称：AK-47 | 卡特尔 (崭新出厂)
+哈希名：AK-47 | Cartel (Factory New)
+
+序号：22
+ID：56
+名称：AK-47 | 卡特尔 (破损不堪)
+哈希名：AK-47 | Cartel (Well-Worn)
+
+序号：23
+ID：57
+名称：AK-47 | 表面淬火 (战痕累累)
+哈希名：AK-47 | Case Hardened (Battle-Scarred)
+
+序号：24
+ID：58
+名称：AK-47 | 表面淬火 (崭新出厂)
+哈希名：AK-47 | Case Hardened (Factory New)
+
+序号：25
+ID：59
+名称：AK-47 | 表面淬火 (久经沙场)
+哈希名：AK-47 | Case Hardened (Field-Tested)
+
+序号：26
+ID：60
+名称：AK-47 | 表面淬火 (略有磨损)
+哈希名：AK-47 | Case Hardened (Minimal Wear)
+
+序号：27
+ID：61
+名称：AK-47 | 表面淬火 (破损不堪)
+哈希名：AK-47 | Case Hardened (Well-Worn)
+
+序号：28
+ID：62
+名称：AK-47 | 精英之作 (崭新出厂)
+哈希名：AK-47 | Elite Build (Factory New)
+
+序号：29
+ID：63
+名称：AK-47 | 精英之作 (久经沙场)
+哈希名：AK-47 | Elite Build (Field-Tested)
+
+序号：30
+ID：64
+名称：AK-47 | 精英之作 (略有磨损)
+哈希名：AK-47 | Elite Build (Minimal Wear)
+
+序号：31
+ID：65
+名称：AK-47 | 精英之作 (破损不堪)
+哈希名：AK-47 | Elite Build (Well-Worn)
+
+序号：32
+ID：66
+名称：AK-47 | 翡翠细条纹 (战痕累累)
+哈希名：AK-47 | Emerald Pinstripe (Battle-Scarred)
+
+序号：33
+ID：67
+名称：AK-47 | 翡翠细条纹 (崭新出厂)
+哈希名：AK-47 | Emerald Pinstripe (Factory New)
+
+序号：34
+ID：68
+名称：AK-47 | 翡翠细条纹 (久经沙场)
+哈希名：AK-47 | Emerald Pinstripe (Field-Tested)
+
+序号：35
+ID：69
+名称：AK-47 | 翡翠细条纹 (略有磨损)
+哈希名：AK-47 | Emerald Pinstripe (Minimal Wear)
+
+序号：36
+ID：70
+名称：AK-47 | 翡翠细条纹 (破损不堪)
+哈希名：AK-47 | Emerald Pinstripe (Well-Worn)
+
+序号：37
+ID：71
+名称：AK-47 | 火蛇 (战痕累累)
+哈希名：AK-47 | Fire Serpent (Battle-Scarred)
+
+序号：38
+ID：72
+名称：AK-47 | 火蛇 (崭新出厂)
+哈希名：AK-47 | Fire Serpent (Factory New)
+
+序号：39
+ID：73
+名称：AK-47 | 火蛇 (久经沙场)
+哈希名：AK-47 | Fire Serpent (Field-Tested)
+
+序号：40
+ID：74
+名称：AK-47 | 火蛇 (略有磨损)
+哈希名：AK-47 | Fire Serpent (Minimal Wear)
+
+序号：41
+ID：75
+名称：AK-47 | 火蛇 (破损不堪)
+哈希名：AK-47 | Fire Serpent (Well-Worn)
+
+序号：42
+ID：76
+名称：AK-47 | 至高皮革 (战痕累累)
+哈希名：AK-47 | First Class (Battle-Scarred)
+
+序号：43
+ID：77
+名称：AK-47 | 至高皮革 (崭新出厂)
+哈希名：AK-47 | First Class (Factory New)
+
+序号：44
+ID：78
+名称：AK-47 | 至高皮革 (久经沙场)
+哈希名：AK-47 | First Class (Field-Tested)
+
+序号：45
+ID：79
+名称：AK-47 | 至高皮革 (略有磨损)
+哈希名：AK-47 | First Class (Minimal Wear)
+
+序号：46
+ID：80
+名称：AK-47 | 至高皮革 (破损不堪)
+哈希名：AK-47 | First Class (Well-Worn)
+
+序号：47
+ID：81
+名称：AK-47 | 前线迷雾 (战痕累累)
+哈希名：AK-47 | Frontside Misty (Battle-Scarred)
+
+序号：48
+ID：82
+名称：AK-47 | 前线迷雾 (崭新出厂)
+哈希名：AK-47 | Frontside Misty (Factory New)
+
+序号：49
+ID：83
+名称：AK-47 | 前线迷雾 (略有磨损)
+哈希名：AK-47 | Frontside Misty (Minimal Wear)
+
+序号：50
+ID：84
+名称：AK-47 | 前线迷雾 (破损不堪)
+哈希名：AK-47 | Frontside Misty (Well-Worn)
+
+序号：51
+ID：85
+名称：AK-47 | 燃料喷射器 (战痕累累)
+哈希名：AK-47 | Fuel Injector (Battle-Scarred)
+
+序号：52
+ID：86
+名称：AK-47 | 燃料喷射器 (崭新出厂)
+哈希名：AK-47 | Fuel Injector (Factory New)
+
+序号：53
+ID：87
+名称：AK-47 | 燃料喷射器 (久经沙场)
+哈希名：AK-47 | Fuel Injector (Field-Tested)
+
+序号：54
+ID：88
+名称：AK-47 | 燃料喷射器 (略有磨损)
+哈希名：AK-47 | Fuel Injector (Minimal Wear)
+
+序号：55
+ID：89
+名称：AK-47 | 燃料喷射器 (破损不堪)
+哈希名：AK-47 | Fuel Injector (Well-Worn)
+
+序号：56
+ID：90
+名称：AK-47 | 水栽竹 (战痕累累)
+哈希名：AK-47 | Hydroponic (Battle-Scarred)
+
+序号：57
+ID：91
+名称：AK-47 | 水栽竹 (崭新出厂)
+哈希名：AK-47 | Hydroponic (Factory New)
+
+序号：58
+ID：92
+名称：AK-47 | 水栽竹 (久经沙场)
+哈希名：AK-47 | Hydroponic (Field-Tested)
+
+序号：59
+ID：93
+名称：AK-47 | 水栽竹 (略有磨损)
+哈希名：AK-47 | Hydroponic (Minimal Wear)
+
+序号：60
+ID：94
+名称：AK-47 | 水栽竹 (破损不堪)
+哈希名：AK-47 | Hydroponic (Well-Worn)
+
+序号：61
+ID：95
+名称：AK-47 | 美洲猛虎 (战痕累累)
+哈希名：AK-47 | Jaguar (Battle-Scarred)
+
+序号：62
+ID：96
+名称：AK-47 | 美洲猛虎 (崭新出厂)
+哈希名：AK-47 | Jaguar (Factory New)
+
+序号：63
+ID：97
+名称：AK-47 | 美洲猛虎 (久经沙场)
+哈希名：AK-47 | Jaguar (Field-Tested)
+
+序号：64
+ID：98
+名称：AK-47 | 美洲猛虎 (略有磨损)
+哈希名：AK-47 | Jaguar (Minimal Wear)
+
+序号：65
+ID：99
+名称：AK-47 | 美洲猛虎 (破损不堪)
+哈希名：AK-47 | Jaguar (Well-Worn)
+
+序号：66
+ID：100
+名称：AK-47 | 酷炫涂鸦皮革 (战痕累累)
+哈希名：AK-47 | Jet Set (Battle-Scarred)
+
+序号：67
+ID：101
+名称：AK-47 | 酷炫涂鸦皮革 (崭新出厂)
+哈希名：AK-47 | Jet Set (Factory New)
+
+序号：68
+ID：102
+名称：AK-47 | 酷炫涂鸦皮革 (久经沙场)
+哈希名：AK-47 | Jet Set (Field-Tested)
+
+序号：69
+ID：103
+名称：AK-47 | 酷炫涂鸦皮革 (略有磨损)
+哈希名：AK-47 | Jet Set (Minimal Wear)
+
+序号：70
+ID：104
+名称：AK-47 | 酷炫涂鸦皮革 (破损不堪)
+哈希名：AK-47 | Jet Set (Well-Worn)
+
+序号：71
+ID：105
+名称：AK-47 | 丛林涂装 (战痕累累)
+哈希名：AK-47 | Jungle Spray (Battle-Scarred)
+
+序号：72
+ID：106
+名称：AK-47 | 丛林涂装 (崭新出厂)
+哈希名：AK-47 | Jungle Spray (Factory New)
+
+序号：73
+ID：107
+名称：AK-47 | 丛林涂装 (久经沙场)
+哈希名：AK-47 | Jungle Spray (Field-Tested)
+
+序号：74
+ID：108
+名称：AK-47 | 丛林涂装 (略有磨损)
+哈希名：AK-47 | Jungle Spray (Minimal Wear)
+
+序号：75
+ID：109
+名称：AK-47 | 丛林涂装 (破损不堪)
+哈希名：AK-47 | Jungle Spray (Well-Worn)
+
+序号：76
+ID：110
+名称：AK-47 | 霓虹革命 (战痕累累)
+哈希名：AK-47 | Neon Revolution (Battle-Scarred)
+
+序号：77
+ID：111
+名称：AK-47 | 霓虹革命 (崭新出厂)
+哈希名：AK-47 | Neon Revolution (Factory New)
+
+序号：78
+ID：112
+名称：AK-47 | 霓虹革命 (久经沙场)
+哈希名：AK-47 | Neon Revolution (Field-Tested)
+
+序号：79
+ID：113
+名称：AK-47 | 霓虹革命 (略有磨损)
+哈希名：AK-47 | Neon Revolution (Minimal Wear)
+
+序号：80
+ID：114
+名称：AK-47 | 霓虹革命 (破损不堪)
+哈希名：AK-47 | Neon Revolution (Well-Worn)
+
+序号：81
+ID：115
+名称：AK-47 | 轨道 Mk01 (战痕累累)
+哈希名：AK-47 | Orbit Mk01 (Battle-Scarred)
+
+序号：82
+ID：116
+名称：AK-47 | 轨道 Mk01 (久经沙场)
+哈希名：AK-47 | Orbit Mk01 (Field-Tested)
+
+序号：83
+ID：117
+名称：AK-47 | 轨道 Mk01 (略有磨损)
+哈希名：AK-47 | Orbit Mk01 (Minimal Wear)
+
+序号：84
+ID：118
+名称：AK-47 | 轨道 Mk01 (破损不堪)
+哈希名：AK-47 | Orbit Mk01 (Well-Worn)
+
+序号：85
+ID：119
+名称：AK-47 | 混沌点阵 (战痕累累)
+哈希名：AK-47 | Point Disarray (Battle-Scarred)
+
+序号：86
+ID：120
+名称：AK-47 | 混沌点阵 (崭新出厂)
+哈希名：AK-47 | Point Disarray (Factory New)
+
+序号：87
+ID：121
+名称：AK-47 | 混沌点阵 (久经沙场)
+哈希名：AK-47 | Point Disarray (Field-Tested)
+
+序号：88
+ID：122
+名称：AK-47 | 混沌点阵 (略有磨损)
+哈希名：AK-47 | Point Disarray (Minimal Wear)
+
+序号：89
+ID：123
+名称：AK-47 | 混沌点阵 (破损不堪)
+哈希名：AK-47 | Point Disarray (Well-Worn)
+
+序号：90
+ID：124
+名称：AK-47 | 捕食者 (战痕累累)
+哈希名：AK-47 | Predator (Battle-Scarred)
+
+序号：91
+ID：125
+名称：AK-47 | 捕食者 (崭新出厂)
+哈希名：AK-47 | Predator (Factory New)
+
+序号：92
+ID：126
+名称：AK-47 | 捕食者 (久经沙场)
+哈希名：AK-47 | Predator (Field-Tested)
+
+序号：93
+ID：127
+名称：AK-47 | 捕食者 (略有磨损)
+哈希名：AK-47 | Predator (Minimal Wear)
+
+序号：94
+ID：128
+名称：AK-47 | 捕食者 (破损不堪)
+哈希名：AK-47 | Predator (Well-Worn)
+
+序号：95
+ID：129
+名称：AK-47 | 红色层压板 (战痕累累)
+哈希名：AK-47 | Red Laminate (Battle-Scarred)
+
+序号：96
+ID：130
+名称：AK-47 | 红色层压板 (崭新出厂)
+哈希名：AK-47 | Red Laminate (Factory New)
+
+序号：97
+ID：131
+名称：AK-47 | 红色层压板 (久经沙场)
+哈希名：AK-47 | Red Laminate (Field-Tested)
+
+序号：98
+ID：132
+名称：AK-47 | 红色层压板 (略有磨损)
+哈希名：AK-47 | Red Laminate (Minimal Wear)
+
+序号：99
+ID：133
+名称：AK-47 | 红色层压板 (破损不堪)
+哈希名：AK-47 | Red Laminate (Well-Worn)
+
+序号：100
+ID：134
+名称：AK-47 | 红线 (战痕累累)
+哈希名：AK-47 | Redline (Battle-Scarred)
+
+序号：101
+ID：135
+名称：AK-47 | 红线 (久经沙场)
+哈希名：AK-47 | Redline (Field-Tested)
+
+序号：102
+ID：136
+名称：AK-47 | 红线 (略有磨损)
+哈希名：AK-47 | Redline (Minimal Wear)
+
+序号：103
+ID：137
+名称：AK-47 | 红线 (破损不堪)
+哈希名：AK-47 | Redline (Well-Worn)
+
+序号：104
+ID：138
+名称：AK-47 | 狩猎网格 (战痕累累)
+哈希名：AK-47 | Safari Mesh (Battle-Scarred)
+
+序号：105
+ID：139
+名称：AK-47 | 狩猎网格 (崭新出厂)
+哈希名：AK-47 | Safari Mesh (Factory New)
+
+序号：106
+ID：140
+名称：AK-47 | 狩猎网格 (久经沙场)
+哈希名：AK-47 | Safari Mesh (Field-Tested)
+
+序号：107
+ID：141
+名称：AK-47 | 狩猎网格 (略有磨损)
+哈希名：AK-47 | Safari Mesh (Minimal Wear)
+
+序号：108
+ID：142
+名称：AK-47 | 狩猎网格 (破损不堪)
+哈希名：AK-47 | Safari Mesh (Well-Worn)
+
+序号：109
+ID：143
+名称：AK-47 | 皇后 (战痕累累)
+哈希名：AK-47 | The Empress (Battle-Scarred)
+
+序号：110
+ID：144
+名称：AK-47 | 皇后 (崭新出厂)
+哈希名：AK-47 | The Empress (Factory New)
+
+序号：111
+ID：145
+名称：AK-47 | 皇后 (久经沙场)
+哈希名：AK-47 | The Empress (Field-Tested)
+
+序号：112
+ID：146
+名称：AK-47 | 皇后 (略有磨损)
+哈希名：AK-47 | The Empress (Minimal Wear)
+
+序号：113
+ID：147
+名称：AK-47 | 皇后 (破损不堪)
+哈希名：AK-47 | The Empress (Well-Worn)
+
+序号：114
+ID：148
+名称：AK-47 | 火神 (战痕累累)
+哈希名：AK-47 | Vulcan (Battle-Scarred)
+
+序号：115
+ID：149
+名称：AK-47 | 火神 (崭新出厂)
+哈希名：AK-47 | Vulcan (Factory New)
+
+序号：116
+ID：150
+名称：AK-47 | 火神 (久经沙场)
+哈希名：AK-47 | Vulcan (Field-Tested)
+
+序号：117
+ID：151
+名称：AK-47 | 火神 (略有磨损)
+哈希名：AK-47 | Vulcan (Minimal Wear)
+
+序号：118
+ID：152
+名称：AK-47 | 火神 (破损不堪)
+哈希名：AK-47 | Vulcan (Well-Worn)
+
+序号：119
+ID：153
+名称：AK-47 | 荒野反叛 (战痕累累)
+哈希名：AK-47 | Wasteland Rebel (Battle-Scarred)
+
+序号：120
+ID：154
+名称：AK-47 | 荒野反叛 (崭新出厂)
+哈希名：AK-47 | Wasteland Rebel (Factory New)
+
+序号：121
+ID：155
+名称：AK-47 | 荒野反叛 (久经沙场)
+哈希名：AK-47 | Wasteland Rebel (Field-Tested)
+
+序号：122
+ID：156
+名称：AK-47 | 荒野反叛 (略有磨损)
+哈希名：AK-47 | Wasteland Rebel (Minimal Wear)
+
+序号：123
+ID：157
+名称：AK-47 | 荒野反叛 (破损不堪)
+哈希名：AK-47 | Wasteland Rebel (Well-Worn)
+
+序号：124
+ID：2359
+名称：AK-47（纪念品） | 狩猎网格 (战痕累累)
+哈希名：Souvenir AK-47 | Safari Mesh (Battle-Scarred)
+
+序号：125
+ID：2360
+名称：AK-47（纪念品） | 狩猎网格 (崭新出厂)
+哈希名：Souvenir AK-47 | Safari Mesh (Factory New)
+
+序号：126
+ID：2361
+名称：AK-47（纪念品） | 狩猎网格 (久经沙场)
+哈希名：Souvenir AK-47 | Safari Mesh (Field-Tested)
+
+序号：127
+ID：2362
+名称：AK-47（纪念品） | 狩猎网格 (略有磨损)
+哈希名：Souvenir AK-47 | Safari Mesh (Minimal Wear)
+
+序号：128
+ID：2363
+名称：AK-47（纪念品） | 狩猎网格 (破损不堪)
+哈希名：Souvenir AK-47 | Safari Mesh (Well-Worn)
+
+序号：129
+ID：2850
+名称：AK-47（StatTrak™） | 深海复仇 (战痕累累)
+哈希名：StatTrak™ AK-47 | Aquamarine Revenge (Battle-Scarred)
+
+序号：130
+ID：2851
+名称：AK-47（StatTrak™） | 深海复仇 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Aquamarine Revenge (Factory New)
+
+序号：131
+ID：2852
+名称：AK-47（StatTrak™） | 深海复仇 (久经沙场)
+哈希名：StatTrak™ AK-47 | Aquamarine Revenge (Field-Tested)
+
+序号：132
+ID：2853
+名称：AK-47（StatTrak™） | 深海复仇 (略有磨损)
+哈希名：StatTrak™ AK-47 | Aquamarine Revenge (Minimal Wear)
+
+序号：133
+ID：2854
+名称：AK-47（StatTrak™） | 深海复仇 (破损不堪)
+哈希名：StatTrak™ AK-47 | Aquamarine Revenge (Well-Worn)
+
+序号：134
+ID：2855
+名称：AK-47（StatTrak™） | 血腥运动 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Bloodsport (Factory New)
+
+序号：135
+ID：2856
+名称：AK-47（StatTrak™） | 血腥运动 (久经沙场)
+哈希名：StatTrak™ AK-47 | Bloodsport (Field-Tested)
+
+序号：136
+ID：2857
+名称：AK-47（StatTrak™） | 血腥运动 (略有磨损)
+哈希名：StatTrak™ AK-47 | Bloodsport (Minimal Wear)
+
+序号：137
+ID：2858
+名称：AK-47（StatTrak™） | 血腥运动 (破损不堪)
+哈希名：StatTrak™ AK-47 | Bloodsport (Well-Worn)
+
+序号：138
+ID：2859
+名称：AK-47（StatTrak™） | 蓝色层压板 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Blue Laminate (Factory New)
+
+序号：139
+ID：2860
+名称：AK-47（StatTrak™） | 蓝色层压板 (久经沙场)
+哈希名：StatTrak™ AK-47 | Blue Laminate (Field-Tested)
+
+序号：140
+ID：2861
+名称：AK-47（StatTrak™） | 蓝色层压板 (略有磨损)
+哈希名：StatTrak™ AK-47 | Blue Laminate (Minimal Wear)
+
+序号：141
+ID：2862
+名称：AK-47（StatTrak™） | 蓝色层压板 (破损不堪)
+哈希名：StatTrak™ AK-47 | Blue Laminate (Well-Worn)
+
+序号：142
+ID：2863
+名称：AK-47（StatTrak™） | 卡特尔 (战痕累累)
+哈希名：StatTrak™ AK-47 | Cartel (Battle-Scarred)
+
+序号：143
+ID：2864
+名称：AK-47（StatTrak™） | 卡特尔 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Cartel (Factory New)
+
+序号：144
+ID：2865
+名称：AK-47（StatTrak™） | 卡特尔 (久经沙场)
+哈希名：StatTrak™ AK-47 | Cartel (Field-Tested)
+
+序号：145
+ID：2866
+名称：AK-47（StatTrak™） | 卡特尔 (略有磨损)
+哈希名：StatTrak™ AK-47 | Cartel (Minimal Wear)
+
+序号：146
+ID：2867
+名称：AK-47（StatTrak™） | 卡特尔 (破损不堪)
+哈希名：StatTrak™ AK-47 | Cartel (Well-Worn)
+
+序号：147
+ID：2868
+名称：AK-47（StatTrak™） | 表面淬火 (战痕累累)
+哈希名：StatTrak™ AK-47 | Case Hardened (Battle-Scarred)
+
+序号：148
+ID：2869
+名称：AK-47（StatTrak™） | 表面淬火 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Case Hardened (Factory New)
+
+序号：149
+ID：2870
+名称：AK-47（StatTrak™） | 表面淬火 (久经沙场)
+哈希名：StatTrak™ AK-47 | Case Hardened (Field-Tested)
+
+序号：150
+ID：2871
+名称：AK-47（StatTrak™） | 表面淬火 (略有磨损)
+哈希名：StatTrak™ AK-47 | Case Hardened (Minimal Wear)
+
+序号：151
+ID：2872
+名称：AK-47（StatTrak™） | 表面淬火 (破损不堪)
+哈希名：StatTrak™ AK-47 | Case Hardened (Well-Worn)
+
+序号：152
+ID：2873
+名称：AK-47（StatTrak™） | 精英之作 (战痕累累)
+哈希名：StatTrak™ AK-47 | Elite Build (Battle-Scarred)
+
+序号：153
+ID：2874
+名称：AK-47（StatTrak™） | 精英之作 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Elite Build (Factory New)
+
+序号：154
+ID：2875
+名称：AK-47（StatTrak™） | 精英之作 (久经沙场)
+哈希名：StatTrak™ AK-47 | Elite Build (Field-Tested)
+
+序号：155
+ID：2876
+名称：AK-47（StatTrak™） | 精英之作 (略有磨损)
+哈希名：StatTrak™ AK-47 | Elite Build (Minimal Wear)
+
+序号：156
+ID：2877
+名称：AK-47（StatTrak™） | 精英之作 (破损不堪)
+哈希名：StatTrak™ AK-47 | Elite Build (Well-Worn)
+
+序号：157
+ID：2878
+名称：AK-47（StatTrak™） | 火蛇 (战痕累累)
+哈希名：StatTrak™ AK-47 | Fire Serpent (Battle-Scarred)
+
+序号：158
+ID：2879
+名称：AK-47（StatTrak™） | 火蛇 (久经沙场)
+哈希名：StatTrak™ AK-47 | Fire Serpent (Field-Tested)
+
+序号：159
+ID：2880
+名称：AK-47（StatTrak™） | 火蛇 (略有磨损)
+哈希名：StatTrak™ AK-47 | Fire Serpent (Minimal Wear)
+
+序号：160
+ID：2881
+名称：AK-47（StatTrak™） | 火蛇 (破损不堪)
+哈希名：StatTrak™ AK-47 | Fire Serpent (Well-Worn)
+
+序号：161
+ID：2882
+名称：AK-47（StatTrak™） | 前线迷雾 (战痕累累)
+哈希名：StatTrak™ AK-47 | Frontside Misty (Battle-Scarred)
+
+序号：162
+ID：2883
+名称：AK-47（StatTrak™） | 前线迷雾 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Frontside Misty (Factory New)
+
+序号：163
+ID：2884
+名称：AK-47（StatTrak™） | 前线迷雾 (久经沙场)
+哈希名：StatTrak™ AK-47 | Frontside Misty (Field-Tested)
+
+序号：164
+ID：2885
+名称：AK-47（StatTrak™） | 前线迷雾 (略有磨损)
+哈希名：StatTrak™ AK-47 | Frontside Misty (Minimal Wear)
+
+序号：165
+ID：2886
+名称：AK-47（StatTrak™） | 前线迷雾 (破损不堪)
+哈希名：StatTrak™ AK-47 | Frontside Misty (Well-Worn)
+
+序号：166
+ID：2887
+名称：AK-47（StatTrak™） | 燃料喷射器 (战痕累累)
+哈希名：StatTrak™ AK-47 | Fuel Injector (Battle-Scarred)
+
+序号：167
+ID：2888
+名称：AK-47（StatTrak™） | 燃料喷射器 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Fuel Injector (Factory New)
+
+序号：168
+ID：2889
+名称：AK-47（StatTrak™） | 燃料喷射器 (久经沙场)
+哈希名：StatTrak™ AK-47 | Fuel Injector (Field-Tested)
+
+序号：169
+ID：2890
+名称：AK-47（StatTrak™） | 燃料喷射器 (略有磨损)
+哈希名：StatTrak™ AK-47 | Fuel Injector (Minimal Wear)
+
+序号：170
+ID：2891
+名称：AK-47（StatTrak™） | 燃料喷射器 (破损不堪)
+哈希名：StatTrak™ AK-47 | Fuel Injector (Well-Worn)
+
+序号：171
+ID：2892
+名称：AK-47（StatTrak™） | 美洲猛虎 (战痕累累)
+哈希名：StatTrak™ AK-47 | Jaguar (Battle-Scarred)
+
+序号：172
+ID：2893
+名称：AK-47（StatTrak™） | 美洲猛虎 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Jaguar (Factory New)
+
+序号：173
+ID：2894
+名称：AK-47（StatTrak™） | 美洲猛虎 (久经沙场)
+哈希名：StatTrak™ AK-47 | Jaguar (Field-Tested)
+
+序号：174
+ID：2895
+名称：AK-47（StatTrak™） | 美洲猛虎 (略有磨损)
+哈希名：StatTrak™ AK-47 | Jaguar (Minimal Wear)
+
+序号：175
+ID：2896
+名称：AK-47（StatTrak™） | 美洲猛虎 (破损不堪)
+哈希名：StatTrak™ AK-47 | Jaguar (Well-Worn)
+
+序号：176
+ID：2897
+名称：AK-47（StatTrak™） | 霓虹革命 (战痕累累)
+哈希名：StatTrak™ AK-47 | Neon Revolution (Battle-Scarred)
+
+序号：177
+ID：2898
+名称：AK-47（StatTrak™） | 霓虹革命 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Neon Revolution (Factory New)
+
+序号：178
+ID：2899
+名称：AK-47（StatTrak™） | 霓虹革命 (破损不堪)
+哈希名：StatTrak™ AK-47 | Neon Revolution (Well-Worn)
+
+序号：179
+ID：2900
+名称：AK-47（StatTrak™） | 轨道 Mk01 (战痕累累)
+哈希名：StatTrak™ AK-47 | Orbit Mk01 (Battle-Scarred)
+
+序号：180
+ID：2901
+名称：AK-47（StatTrak™） | 轨道 Mk01 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Orbit Mk01 (Factory New)
+
+序号：181
+ID：2902
+名称：AK-47（StatTrak™） | 轨道 Mk01 (久经沙场)
+哈希名：StatTrak™ AK-47 | Orbit Mk01 (Field-Tested)
+
+序号：182
+ID：2903
+名称：AK-47（StatTrak™） | 轨道 Mk01 (略有磨损)
+哈希名：StatTrak™ AK-47 | Orbit Mk01 (Minimal Wear)
+
+序号：183
+ID：2904
+名称：AK-47（StatTrak™） | 轨道 Mk01 (破损不堪)
+哈希名：StatTrak™ AK-47 | Orbit Mk01 (Well-Worn)
+
+序号：184
+ID：2905
+名称：AK-47（StatTrak™） | 混沌点阵 (战痕累累)
+哈希名：StatTrak™ AK-47 | Point Disarray (Battle-Scarred)
+
+序号：185
+ID：2906
+名称：AK-47（StatTrak™） | 混沌点阵 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Point Disarray (Factory New)
+
+序号：186
+ID：2907
+名称：AK-47（StatTrak™） | 混沌点阵 (久经沙场)
+哈希名：StatTrak™ AK-47 | Point Disarray (Field-Tested)
+
+序号：187
+ID：2908
+名称：AK-47（StatTrak™） | 混沌点阵 (略有磨损)
+哈希名：StatTrak™ AK-47 | Point Disarray (Minimal Wear)
+
+序号：188
+ID：2909
+名称：AK-47（StatTrak™） | 混沌点阵 (破损不堪)
+哈希名：StatTrak™ AK-47 | Point Disarray (Well-Worn)
+
+序号：189
+ID：2910
+名称：AK-47（StatTrak™） | 红色层压板 (战痕累累)
+哈希名：StatTrak™ AK-47 | Red Laminate (Battle-Scarred)
+
+序号：190
+ID：2911
+名称：AK-47（StatTrak™） | 红色层压板 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Red Laminate (Factory New)
+
+序号：191
+ID：2912
+名称：AK-47（StatTrak™） | 红色层压板 (久经沙场)
+哈希名：StatTrak™ AK-47 | Red Laminate (Field-Tested)
+
+序号：192
+ID：2913
+名称：AK-47（StatTrak™） | 红色层压板 (略有磨损)
+哈希名：StatTrak™ AK-47 | Red Laminate (Minimal Wear)
+
+序号：193
+ID：2914
+名称：AK-47（StatTrak™） | 红色层压板 (破损不堪)
+哈希名：StatTrak™ AK-47 | Red Laminate (Well-Worn)
+
+序号：194
+ID：2915
+名称：AK-47（StatTrak™） | 红线 (战痕累累)
+哈希名：StatTrak™ AK-47 | Redline (Battle-Scarred)
+
+序号：195
+ID：2916
+名称：AK-47（StatTrak™） | 红线 (久经沙场)
+哈希名：StatTrak™ AK-47 | Redline (Field-Tested)
+
+序号：196
+ID：2917
+名称：AK-47（StatTrak™） | 红线 (略有磨损)
+哈希名：StatTrak™ AK-47 | Redline (Minimal Wear)
+
+序号：197
+ID：2918
+名称：AK-47（StatTrak™） | 红线 (破损不堪)
+哈希名：StatTrak™ AK-47 | Redline (Well-Worn)
+
+序号：198
+ID：2919
+名称：AK-47（StatTrak™） | 皇后 (战痕累累)
+哈希名：StatTrak™ AK-47 | The Empress (Battle-Scarred)
+
+序号：199
+ID：2920
+名称：AK-47（StatTrak™） | 皇后 (崭新出厂)
+哈希名：StatTrak™ AK-47 | The Empress (Factory New)
+
+序号：200
+ID：2921
+名称：AK-47（StatTrak™） | 皇后 (久经沙场)
+哈希名：StatTrak™ AK-47 | The Empress (Field-Tested)
+
+序号：201
+ID：2922
+名称：AK-47（StatTrak™） | 皇后 (略有磨损)
+哈希名：StatTrak™ AK-47 | The Empress (Minimal Wear)
+
+序号：202
+ID：2923
+名称：AK-47（StatTrak™） | 皇后 (破损不堪)
+哈希名：StatTrak™ AK-47 | The Empress (Well-Worn)
+
+序号：203
+ID：2924
+名称：AK-47（StatTrak™） | 火神 (战痕累累)
+哈希名：StatTrak™ AK-47 | Vulcan (Battle-Scarred)
+
+序号：204
+ID：2925
+名称：AK-47（StatTrak™） | 火神 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Vulcan (Factory New)
+
+序号：205
+ID：2926
+名称：AK-47（StatTrak™） | 火神 (久经沙场)
+哈希名：StatTrak™ AK-47 | Vulcan (Field-Tested)
+
+序号：206
+ID：2927
+名称：AK-47（StatTrak™） | 火神 (略有磨损)
+哈希名：StatTrak™ AK-47 | Vulcan (Minimal Wear)
+
+序号：207
+ID：2928
+名称：AK-47（StatTrak™） | 火神 (破损不堪)
+哈希名：StatTrak™ AK-47 | Vulcan (Well-Worn)
+
+序号：208
+ID：2929
+名称：AK-47（StatTrak™） | 荒野反叛 (战痕累累)
+哈希名：StatTrak™ AK-47 | Wasteland Rebel (Battle-Scarred)
+
+序号：209
+ID：2930
+名称：AK-47（StatTrak™） | 荒野反叛 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Wasteland Rebel (Factory New)
+
+序号：210
+ID：2931
+名称：AK-47（StatTrak™） | 荒野反叛 (久经沙场)
+哈希名：StatTrak™ AK-47 | Wasteland Rebel (Field-Tested)
+
+序号：211
+ID：2932
+名称：AK-47（StatTrak™） | 荒野反叛 (略有磨损)
+哈希名：StatTrak™ AK-47 | Wasteland Rebel (Minimal Wear)
+
+序号：212
+ID：2933
+名称：AK-47（StatTrak™） | 荒野反叛 (破损不堪)
+哈希名：StatTrak™ AK-47 | Wasteland Rebel (Well-Worn)
+
+序号：213
+ID：8073
+名称：AK-47（StatTrak™） | 火蛇 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Fire Serpent (Factory New)
+
+序号：214
+ID：8480
+名称：AK-47 | 霓虹骑士 (战痕累累)
+哈希名：AK-47 | Neon Rider (Battle-Scarred)
+
+序号：215
+ID：8481
+名称：AK-47 | 霓虹骑士 (略有磨损)
+哈希名：AK-47 | Neon Rider (Minimal Wear)
+
+序号：216
+ID：8563
+名称：AK-47 | 霓虹骑士 (久经沙场)
+哈希名：AK-47 | Neon Rider (Field-Tested)
+
+序号：217
+ID：8566
+名称：AK-47 | 霓虹骑士 (崭新出厂)
+哈希名：AK-47 | Neon Rider (Factory New)
+
+序号：218
+ID：8568
+名称：AK-47（StatTrak™） | 霓虹骑士 (战痕累累)
+哈希名：StatTrak™ AK-47 | Neon Rider (Battle-Scarred)
+
+序号：219
+ID：8569
+名称：AK-47（StatTrak™） | 霓虹骑士 (久经沙场)
+哈希名：StatTrak™ AK-47 | Neon Rider (Field-Tested)
+
+序号：220
+ID：8613
+名称：AK-47（StatTrak™） | 霓虹骑士 (略有磨损)
+哈希名：StatTrak™ AK-47 | Neon Rider (Minimal Wear)
+
+序号：221
+ID：8650
+名称：AK-47 | 霓虹骑士 (破损不堪)
+哈希名：AK-47 | Neon Rider (Well-Worn)
+
+序号：222
+ID：8651
+名称：AK-47（StatTrak™） | 霓虹骑士 (破损不堪)
+哈希名：StatTrak™ AK-47 | Neon Rider (Well-Worn)
+
+序号：223
+ID：8684
+名称：AK-47（StatTrak™） | 霓虹骑士 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Neon Rider (Factory New)
+
+序号：224
+ID：9358
+名称：AK-47（纪念品） | 安全网 (久经沙场)
+哈希名：Souvenir AK-47 | Safety Net (Field-Tested)
+
+序号：225
+ID：9359
+名称：AK-47（纪念品） | 安全网 (崭新出厂)
+哈希名：Souvenir AK-47 | Safety Net (Factory New)
+
+序号：226
+ID：9396
+名称：AK-47（纪念品） | 安全网 (战痕累累)
+哈希名：Souvenir AK-47 | Safety Net (Battle-Scarred)
+
+序号：227
+ID：9397
+名称：AK-47（纪念品） | 安全网 (破损不堪)
+哈希名：Souvenir AK-47 | Safety Net (Well-Worn)
+
+序号：228
+ID：9432
+名称：AK-47（纪念品） | 安全网 (略有磨损)
+哈希名：Souvenir AK-47 | Safety Net (Minimal Wear)
+
+序号：229
+ID：9558
+名称：AK-47 | 安全网 (战痕累累)
+哈希名：AK-47 | Safety Net (Battle-Scarred)
+
+序号：230
+ID：9559
+名称：AK-47 | 安全网 (久经沙场)
+哈希名：AK-47 | Safety Net (Field-Tested)
+
+序号：231
+ID：9560
+名称：AK-47 | 安全网 (破损不堪)
+哈希名：AK-47 | Safety Net (Well-Worn)
+
+序号：232
+ID：9612
+名称：AK-47 | 安全网 (崭新出厂)
+哈希名：AK-47 | Safety Net (Factory New)
+
+序号：233
+ID：9646
+名称：AK-47 | 安全网 (略有磨损)
+哈希名：AK-47 | Safety Net (Minimal Wear)
+
+序号：234
+ID：9720
+名称：AK-47 | 二西莫夫 (久经沙场)
+哈希名：AK-47 | Asiimov (Field-Tested)
+
+序号：235
+ID：9787
+名称：AK-47 | 二西莫夫 (战痕累累)
+哈希名：AK-47 | Asiimov (Battle-Scarred)
+
+序号：236
+ID：9789
+名称：AK-47（StatTrak™） | 二西莫夫 (久经沙场)
+哈希名：StatTrak™ AK-47 | Asiimov (Field-Tested)
+
+序号：237
+ID：9839
+名称：AK-47 | 二西莫夫 (崭新出厂)
+哈希名：AK-47 | Asiimov (Factory New)
+
+序号：238
+ID：9842
+名称：AK-47（StatTrak™） | 二西莫夫 (略有磨损)
+哈希名：StatTrak™ AK-47 | Asiimov (Minimal Wear)
+
+序号：239
+ID：9845
+名称：AK-47（StatTrak™） | 二西莫夫 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Asiimov (Factory New)
+
+序号：240
+ID：9846
+名称：AK-47（StatTrak™） | 二西莫夫 (破损不堪)
+哈希名：StatTrak™ AK-47 | Asiimov (Well-Worn)
+
+序号：241
+ID：9855
+名称：AK-47 | 二西莫夫 (破损不堪)
+哈希名：AK-47 | Asiimov (Well-Worn)
+
+序号：242
+ID：9856
+名称：AK-47（StatTrak™） | 二西莫夫 (战痕累累)
+哈希名：StatTrak™ AK-47 | Asiimov (Battle-Scarred)
+
+序号：243
+ID：10338
+名称：AK-47 | 迷踪秘境 (久经沙场)
+哈希名：AK-47 | Uncharted (Field-Tested)
+
+序号：244
+ID：10347
+名称：AK-47 | 迷踪秘境 (略有磨损)
+哈希名：AK-47 | Uncharted (Minimal Wear)
+
+序号：245
+ID：10365
+名称：AK-47 | 迷踪秘境 (崭新出厂)
+哈希名：AK-47 | Uncharted (Factory New)
+
+序号：246
+ID：10375
+名称：AK-47（StatTrak™） | 迷踪秘境 (战痕累累)
+哈希名：StatTrak™ AK-47 | Uncharted (Battle-Scarred)
+
+序号：247
+ID：10387
+名称：AK-47（StatTrak™） | 迷踪秘境 (久经沙场)
+哈希名：StatTrak™ AK-47 | Uncharted (Field-Tested)
+
+序号：248
+ID：10388
+名称：AK-47（StatTrak™） | 迷踪秘境 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Uncharted (Factory New)
+
+序号：249
+ID：10389
+名称：AK-47 | 迷踪秘境 (战痕累累)
+哈希名：AK-47 | Uncharted (Battle-Scarred)
+
+序号：250
+ID：10397
+名称：AK-47 | 迷踪秘境 (破损不堪)
+哈希名：AK-47 | Uncharted (Well-Worn)
+
+序号：251
+ID：10411
+名称：AK-47（StatTrak™） | 迷踪秘境 (略有磨损)
+哈希名：StatTrak™ AK-47 | Uncharted (Minimal Wear)
+
+序号：252
+ID：10438
+名称：AK-47（StatTrak™） | 迷踪秘境 (破损不堪)
+哈希名：StatTrak™ AK-47 | Uncharted (Well-Worn)
+
+序号：253
+ID：11116
+名称：AK-47（纪念品） | 黑色层压板 (久经沙场)
+哈希名：Souvenir AK-47 | Black Laminate (Field-Tested)
+
+序号：254
+ID：11118
+名称：AK-47（纪念品） | 黑色层压板 (战痕累累)
+哈希名：Souvenir AK-47 | Black Laminate (Battle-Scarred)
+
+序号：255
+ID：11120
+名称：AK-47（纪念品） | 黑色层压板 (略有磨损)
+哈希名：Souvenir AK-47 | Black Laminate (Minimal Wear)
+
+序号：256
+ID：11121
+名称：AK-47（纪念品） | 黑色层压板 (破损不堪)
+哈希名：Souvenir AK-47 | Black Laminate (Well-Worn)
+
+序号：257
+ID：11127
+名称：AK-47（纪念品） | 黑色层压板 (崭新出厂)
+哈希名：Souvenir AK-47 | Black Laminate (Factory New)
+
+序号：258
+ID：11470
+名称：AK-47 | 巴洛克之紫 (久经沙场)
+哈希名：AK-47 | Baroque Purple (Field-Tested)
+
+序号：259
+ID：11520
+名称：AK-47（StatTrak™） | 复古浪潮 (久经沙场)
+哈希名：StatTrak™ AK-47 | Rat Rod (Field-Tested)
+
+序号：260
+ID：11530
+名称：AK-47 | 巴洛克之紫 (战痕累累)
+哈希名：AK-47 | Baroque Purple (Battle-Scarred)
+
+序号：261
+ID：11531
+名称：AK-47 | 复古浪潮 (久经沙场)
+哈希名：AK-47 | Rat Rod (Field-Tested)
+
+序号：262
+ID：11543
+名称：AK-47 | 复古浪潮 (崭新出厂)
+哈希名：AK-47 | Rat Rod (Factory New)
+
+序号：263
+ID：11576
+名称：AK-47（StatTrak™） | 复古浪潮 (战痕累累)
+哈希名：StatTrak™ AK-47 | Rat Rod (Battle-Scarred)
+
+序号：264
+ID：11598
+名称：AK-47 | 复古浪潮 (战痕累累)
+哈希名：AK-47 | Rat Rod (Battle-Scarred)
+
+序号：265
+ID：11601
+名称：AK-47 | 复古浪潮 (略有磨损)
+哈希名：AK-47 | Rat Rod (Minimal Wear)
+
+序号：266
+ID：11617
+名称：AK-47 | 复古浪潮 (破损不堪)
+哈希名：AK-47 | Rat Rod (Well-Worn)
+
+序号：267
+ID：11652
+名称：AK-47 | 巴洛克之紫 (破损不堪)
+哈希名：AK-47 | Baroque Purple (Well-Worn)
+
+序号：268
+ID：11661
+名称：AK-47 | 巴洛克之紫 (崭新出厂)
+哈希名：AK-47 | Baroque Purple (Factory New)
+
+序号：269
+ID：11662
+名称：AK-47（StatTrak™） | 复古浪潮 (破损不堪)
+哈希名：StatTrak™ AK-47 | Rat Rod (Well-Worn)
+
+序号：270
+ID：11672
+名称：AK-47 | 巴洛克之紫 (略有磨损)
+哈希名：AK-47 | Baroque Purple (Minimal Wear)
+
+序号：271
+ID：11689
+名称：AK-47（StatTrak™） | 复古浪潮 (略有磨损)
+哈希名：StatTrak™ AK-47 | Rat Rod (Minimal Wear)
+
+序号：272
+ID：11768
+名称：AK-47 | 野荷 (久经沙场)
+哈希名：AK-47 | Wild Lotus (Field-Tested)
+
+序号：273
+ID：11774
+名称：AK-47（StatTrak™） | 复古浪潮 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Rat Rod (Factory New)
+
+序号：274
+ID：11782
+名称：AK-47 | 野荷 (略有磨损)
+哈希名：AK-47 | Wild Lotus (Minimal Wear)
+
+序号：275
+ID：11784
+名称：AK-47 | 野荷 (破损不堪)
+哈希名：AK-47 | Wild Lotus (Well-Worn)
+
+序号：276
+ID：11904
+名称：AK-47 | 野荷 (崭新出厂)
+哈希名：AK-47 | Wild Lotus (Factory New)
+
+序号：277
+ID：11934
+名称：AK-47 | 野荷 (战痕累累)
+哈希名：AK-47 | Wild Lotus (Battle-Scarred)
+
+序号：278
+ID：12202
+名称：AK-47 | 幻影破坏者 (略有磨损)
+哈希名：AK-47 | Phantom Disruptor (Minimal Wear)
+
+序号：279
+ID：12204
+名称：AK-47 | 幻影破坏者 (久经沙场)
+哈希名：AK-47 | Phantom Disruptor (Field-Tested)
+
+序号：280
+ID：12248
+名称：AK-47 | 幻影破坏者 (崭新出厂)
+哈希名：AK-47 | Phantom Disruptor (Factory New)
+
+序号：281
+ID：12268
+名称：AK-47（StatTrak™） | 幻影破坏者 (久经沙场)
+哈希名：StatTrak™ AK-47 | Phantom Disruptor (Field-Tested)
+
+序号：282
+ID：12270
+名称：AK-47 | 幻影破坏者 (战痕累累)
+哈希名：AK-47 | Phantom Disruptor (Battle-Scarred)
+
+序号：283
+ID：12276
+名称：AK-47 | 幻影破坏者 (破损不堪)
+哈希名：AK-47 | Phantom Disruptor (Well-Worn)
+
+序号：284
+ID：12277
+名称：AK-47（StatTrak™） | 幻影破坏者 (略有磨损)
+哈希名：StatTrak™ AK-47 | Phantom Disruptor (Minimal Wear)
+
+序号：285
+ID：12310
+名称：AK-47（StatTrak™） | 幻影破坏者 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Phantom Disruptor (Factory New)
+
+序号：286
+ID：12312
+名称：AK-47（StatTrak™） | 幻影破坏者 (战痕累累)
+哈希名：StatTrak™ AK-47 | Phantom Disruptor (Battle-Scarred)
+
+序号：287
+ID：12323
+名称：AK-47（StatTrak™） | 幻影破坏者 (破损不堪)
+哈希名：StatTrak™ AK-47 | Phantom Disruptor (Well-Worn)
+
+序号：288
+ID：12397
+名称：AK-47 | 阿努比斯军团 (战痕累累)
+哈希名：AK-47 | Legion of Anubis (Battle-Scarred)
+
+序号：289
+ID：12446
+名称：AK-47 | 阿努比斯军团 (崭新出厂)
+哈希名：AK-47 | Legion of Anubis (Factory New)
+
+序号：290
+ID：12452
+名称：AK-47 | 阿努比斯军团 (略有磨损)
+哈希名：AK-47 | Legion of Anubis (Minimal Wear)
+
+序号：291
+ID：12462
+名称：AK-47 | 阿努比斯军团 (久经沙场)
+哈希名：AK-47 | Legion of Anubis (Field-Tested)
+
+序号：292
+ID：12473
+名称：AK-47（StatTrak™） | 阿努比斯军团 (略有磨损)
+哈希名：StatTrak™ AK-47 | Legion of Anubis (Minimal Wear)
+
+序号：293
+ID：12474
+名称：AK-47（StatTrak™） | 阿努比斯军团 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Legion of Anubis (Factory New)
+
+序号：294
+ID：12487
+名称：AK-47 | 阿努比斯军团 (破损不堪)
+哈希名：AK-47 | Legion of Anubis (Well-Worn)
+
+序号：295
+ID：12488
+名称：AK-47（StatTrak™） | 阿努比斯军团 (战痕累累)
+哈希名：StatTrak™ AK-47 | Legion of Anubis (Battle-Scarred)
+
+序号：296
+ID：12492
+名称：AK-47（StatTrak™） | 阿努比斯军团 (久经沙场)
+哈希名：StatTrak™ AK-47 | Legion of Anubis (Field-Tested)
+
+序号：297
+ID：12500
+名称：AK-47（StatTrak™） | 阿努比斯军团 (破损不堪)
+哈希名：StatTrak™ AK-47 | Legion of Anubis (Well-Worn)
+
+序号：298
+ID：12703
+名称：印花 | Hello AK-47
+哈希名：Sticker | Hello AK-47
+
+序号：299
+ID：12787
+名称：印花 | Hello AK-47（金色）
+哈希名：Sticker | Hello AK-47 (Gold)
+
+序号：300
+ID：12799
+名称：AK-47 | X 射线 (略有磨损)
+哈希名：AK-47 | X-Ray (Minimal Wear)
+
+序号：301
+ID：12834
+名称：AK-47 | X 射线 (战痕累累)
+哈希名：AK-47 | X-Ray (Battle-Scarred)
+
+序号：302
+ID：12835
+名称：AK-47 | 美洲豹 (崭新出厂)
+哈希名：AK-47 | Panthera onca (Factory New)
+
+序号：303
+ID：12839
+名称：AK-47 | 美洲豹 (略有磨损)
+哈希名：AK-47 | Panthera onca (Minimal Wear)
+
+序号：304
+ID：12869
+名称：AK-47 | 美洲豹 (战痕累累)
+哈希名：AK-47 | Panthera onca (Battle-Scarred)
+
+序号：305
+ID：12875
+名称：AK-47 | X 射线 (破损不堪)
+哈希名：AK-47 | X-Ray (Well-Worn)
+
+序号：306
+ID：12921
+名称：AK-47 | 美洲豹 (破损不堪)
+哈希名：AK-47 | Panthera onca (Well-Worn)
+
+序号：307
+ID：12935
+名称：AK-47 | 美洲豹 (久经沙场)
+哈希名：AK-47 | Panthera onca (Field-Tested)
+
+序号：308
+ID：12967
+名称：AK-47 | X 射线 (久经沙场)
+哈希名：AK-47 | X-Ray (Field-Tested)
+
+序号：309
+ID：13031
+名称：AK-47 | X 射线 (崭新出厂)
+哈希名：AK-47 | X-Ray (Factory New)
+
+序号：310
+ID：13183
+名称：AK-47 | 墨岩 (略有磨损)
+哈希名：AK-47 | Slate (Minimal Wear)
+
+序号：311
+ID：13193
+名称：AK-47 | 墨岩 (久经沙场)
+哈希名：AK-47 | Slate (Field-Tested)
+
+序号：312
+ID：13197
+名称：AK-47 | 墨岩 (战痕累累)
+哈希名：AK-47 | Slate (Battle-Scarred)
+
+序号：313
+ID：13199
+名称：AK-47 | 墨岩 (破损不堪)
+哈希名：AK-47 | Slate (Well-Worn)
+
+序号：314
+ID：13239
+名称：AK-47（StatTrak™） | 墨岩 (久经沙场)
+哈希名：StatTrak™ AK-47 | Slate (Field-Tested)
+
+序号：315
+ID：13246
+名称：AK-47（StatTrak™） | 墨岩 (破损不堪)
+哈希名：StatTrak™ AK-47 | Slate (Well-Worn)
+
+序号：316
+ID：13257
+名称：AK-47 | 墨岩 (崭新出厂)
+哈希名：AK-47 | Slate (Factory New)
+
+序号：317
+ID：13278
+名称：AK-47（StatTrak™） | 墨岩 (略有磨损)
+哈希名：StatTrak™ AK-47 | Slate (Minimal Wear)
+
+序号：318
+ID：13279
+名称：AK-47（StatTrak™） | 墨岩 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Slate (Factory New)
+
+序号：319
+ID：13289
+名称：AK-47（StatTrak™） | 墨岩 (战痕累累)
+哈希名：StatTrak™ AK-47 | Slate (Battle-Scarred)
+
+序号：320
+ID：13363
+名称：AK-47 | 抽象派 1337 (略有磨损)
+哈希名：AK-47 | Leet Museo (Minimal Wear)
+
+序号：321
+ID：13493
+名称：AK-47 | 抽象派 1337 (崭新出厂)
+哈希名：AK-47 | Leet Museo (Factory New)
+
+序号：322
+ID：13575
+名称：AK-47 | 抽象派 1337 (久经沙场)
+哈希名：AK-47 | Leet Museo (Field-Tested)
+
+序号：323
+ID：13589
+名称：AK-47 | 抽象派 1337 (战痕累累)
+哈希名：AK-47 | Leet Museo (Battle-Scarred)
+
+序号：324
+ID：13715
+名称：AK-47 | 绿色层压板 (久经沙场)
+哈希名：AK-47 | Green Laminate (Field-Tested)
+
+序号：325
+ID：13718
+名称：AK-47 | 黄金藤蔓 (久经沙场)
+哈希名：AK-47 | Gold Arabesque (Field-Tested)
+
+序号：326
+ID：13733
+名称：AK-47 | 黄金藤蔓 (略有磨损)
+哈希名：AK-47 | Gold Arabesque (Minimal Wear)
+
+序号：327
+ID：13740
+名称：AK-47 | 绿色层压板 (崭新出厂)
+哈希名：AK-47 | Green Laminate (Factory New)
+
+序号：328
+ID：13791
+名称：AK-47 | 黄金藤蔓 (崭新出厂)
+哈希名：AK-47 | Gold Arabesque (Factory New)
+
+序号：329
+ID：13793
+名称：AK-47 | 绿色层压板 (略有磨损)
+哈希名：AK-47 | Green Laminate (Minimal Wear)
+
+序号：330
+ID：13817
+名称：AK-47 | 黄金藤蔓 (战痕累累)
+哈希名：AK-47 | Gold Arabesque (Battle-Scarred)
+
+序号：331
+ID：13823
+名称：AK-47（StatTrak™） | 抽象派 1337 (久经沙场)
+哈希名：StatTrak™ AK-47 | Leet Museo (Field-Tested)
+
+序号：332
+ID：13852
+名称：AK-47（StatTrak™） | 抽象派 1337 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Leet Museo (Factory New)
+
+序号：333
+ID：13872
+名称：AK-47（StatTrak™） | 抽象派 1337 (略有磨损)
+哈希名：StatTrak™ AK-47 | Leet Museo (Minimal Wear)
+
+序号：334
+ID：13938
+名称：AK-47 | 抽象派 1337 (破损不堪)
+哈希名：AK-47 | Leet Museo (Well-Worn)
+
+序号：335
+ID：13952
+名称：AK-47（StatTrak™） | 抽象派 1337 (战痕累累)
+哈希名：StatTrak™ AK-47 | Leet Museo (Battle-Scarred)
+
+序号：336
+ID：13961
+名称：AK-47 | 黄金藤蔓 (破损不堪)
+哈希名：AK-47 | Gold Arabesque (Well-Worn)
+
+序号：337
+ID：13976
+名称：AK-47（StatTrak™） | 抽象派 1337 (破损不堪)
+哈希名：StatTrak™ AK-47 | Leet Museo (Well-Worn)
+
+序号：338
+ID：14006
+名称：AK-47 | 绿色层压板 (破损不堪)
+哈希名：AK-47 | Green Laminate (Well-Worn)
+
+序号：339
+ID：14305
+名称：AK-47（纪念品） | 绿色层压板 (崭新出厂)
+哈希名：Souvenir AK-47 | Green Laminate (Factory New)
+
+序号：340
+ID：14331
+名称：AK-47（纪念品） | 绿色层压板 (久经沙场)
+哈希名：Souvenir AK-47 | Green Laminate (Field-Tested)
+
+序号：341
+ID：14339
+名称：AK-47（纪念品） | 绿色层压板 (略有磨损)
+哈希名：Souvenir AK-47 | Green Laminate (Minimal Wear)
+
+序号：342
+ID：14350
+名称：AK-47（纪念品） | 美洲豹 (久经沙场)
+哈希名：Souvenir AK-47 | Panthera onca (Field-Tested)
+
+序号：343
+ID：14404
+名称：AK-47（纪念品） | 绿色层压板 (破损不堪)
+哈希名：Souvenir AK-47 | Green Laminate (Well-Worn)
+
+序号：344
+ID：14412
+名称：AK-47（纪念品） | 美洲豹 (破损不堪)
+哈希名：Souvenir AK-47 | Panthera onca (Well-Worn)
+
+序号：345
+ID：14414
+名称：AK-47（纪念品） | 美洲豹 (略有磨损)
+哈希名：Souvenir AK-47 | Panthera onca (Minimal Wear)
+
+序号：346
+ID：14417
+名称：AK-47（纪念品） | 美洲豹 (战痕累累)
+哈希名：Souvenir AK-47 | Panthera onca (Battle-Scarred)
+
+序号：347
+ID：14439
+名称：AK-47（纪念品） | 美洲豹 (崭新出厂)
+哈希名：Souvenir AK-47 | Panthera onca (Factory New)
+
+序号：348
+ID：14502
+名称：AK-47（纪念品） | 黄金藤蔓 (略有磨损)
+哈希名：Souvenir AK-47 | Gold Arabesque (Minimal Wear)
+
+序号：349
+ID：14507
+名称：AK-47（纪念品） | 黄金藤蔓 (崭新出厂)
+哈希名：Souvenir AK-47 | Gold Arabesque (Factory New)
+
+序号：350
+ID：14509
+名称：AK-47（纪念品） | 黄金藤蔓 (久经沙场)
+哈希名：Souvenir AK-47 | Gold Arabesque (Field-Tested)
+
+序号：351
+ID：14511
+名称：AK-47（纪念品） | 黄金藤蔓 (战痕累累)
+哈希名：Souvenir AK-47 | Gold Arabesque (Battle-Scarred)
+
+序号：352
+ID：14528
+名称：AK-47（纪念品） | 黄金藤蔓 (破损不堪)
+哈希名：Souvenir AK-47 | Gold Arabesque (Well-Worn)
+
+序号：353
+ID：14730
+名称：AK-47 | 夜愿 (略有磨损)
+哈希名：AK-47 | Nightwish (Minimal Wear)
+
+序号：354
+ID：14738
+名称：AK-47 | 夜愿 (久经沙场)
+哈希名：AK-47 | Nightwish (Field-Tested)
+
+序号：355
+ID：14765
+名称：AK-47 | 夜愿 (破损不堪)
+哈希名：AK-47 | Nightwish (Well-Worn)
+
+序号：356
+ID：14772
+名称：AK-47 | 夜愿 (战痕累累)
+哈希名：AK-47 | Nightwish (Battle-Scarred)
+
+序号：357
+ID：14787
+名称：AK-47（StatTrak™） | 夜愿 (久经沙场)
+哈希名：StatTrak™ AK-47 | Nightwish (Field-Tested)
+
+序号：358
+ID：14788
+名称：AK-47（StatTrak™） | 夜愿 (略有磨损)
+哈希名：StatTrak™ AK-47 | Nightwish (Minimal Wear)
+
+序号：359
+ID：14797
+名称：AK-47 | 夜愿 (崭新出厂)
+哈希名：AK-47 | Nightwish (Factory New)
+
+序号：360
+ID：14799
+名称：AK-47（StatTrak™） | 夜愿 (战痕累累)
+哈希名：StatTrak™ AK-47 | Nightwish (Battle-Scarred)
+
+序号：361
+ID：14806
+名称：AK-47（StatTrak™） | 夜愿 (破损不堪)
+哈希名：StatTrak™ AK-47 | Nightwish (Well-Worn)
+
+序号：362
+ID：14808
+名称：AK-47（StatTrak™） | 夜愿 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Nightwish (Factory New)
+
+序号：363
+ID：15459
+名称：AK-47 | 可燃冰 (略有磨损)
+哈希名：AK-47 | Ice Coaled (Minimal Wear)
+
+序号：364
+ID：15475
+名称：AK-47 | 可燃冰 (久经沙场)
+哈希名：AK-47 | Ice Coaled (Field-Tested)
+
+序号：365
+ID：15487
+名称：AK-47 | 可燃冰 (崭新出厂)
+哈希名：AK-47 | Ice Coaled (Factory New)
+
+序号：366
+ID：15505
+名称：AK-47 | 可燃冰 (破损不堪)
+哈希名：AK-47 | Ice Coaled (Well-Worn)
+
+序号：367
+ID：15524
+名称：AK-47 | 可燃冰 (战痕累累)
+哈希名：AK-47 | Ice Coaled (Battle-Scarred)
+
+序号：368
+ID：15530
+名称：AK-47（StatTrak™） | 可燃冰 (久经沙场)
+哈希名：StatTrak™ AK-47 | Ice Coaled (Field-Tested)
+
+序号：369
+ID：15566
+名称：AK-47（StatTrak™） | 可燃冰 (略有磨损)
+哈希名：StatTrak™ AK-47 | Ice Coaled (Minimal Wear)
+
+序号：370
+ID：15572
+名称：AK-47（StatTrak™） | 可燃冰 (破损不堪)
+哈希名：StatTrak™ AK-47 | Ice Coaled (Well-Worn)
+
+序号：371
+ID：15573
+名称：AK-47（StatTrak™） | 可燃冰 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Ice Coaled (Factory New)
+
+序号：372
+ID：15575
+名称：AK-47（StatTrak™） | 可燃冰 (战痕累累)
+哈希名：StatTrak™ AK-47 | Ice Coaled (Battle-Scarred)
+
+序号：373
+ID：16318
+名称：AK-47 | 一发入魂 (战痕累累)
+哈希名：AK-47 | Head Shot (Battle-Scarred)
+
+序号：374
+ID：16339
+名称：AK-47 | 一发入魂 (略有磨损)
+哈希名：AK-47 | Head Shot (Minimal Wear)
+
+序号：375
+ID：16399
+名称：AK-47 | 一发入魂 (破损不堪)
+哈希名：AK-47 | Head Shot (Well-Worn)
+
+序号：376
+ID：16408
+名称：AK-47 | 一发入魂 (久经沙场)
+哈希名：AK-47 | Head Shot (Field-Tested)
+
+序号：377
+ID：16422
+名称：AK-47 | 一发入魂 (崭新出厂)
+哈希名：AK-47 | Head Shot (Factory New)
+
+序号：378
+ID：16437
+名称：AK-47（StatTrak™） | 一发入魂 (略有磨损)
+哈希名：StatTrak™ AK-47 | Head Shot (Minimal Wear)
+
+序号：379
+ID：16440
+名称：AK-47（StatTrak™） | 一发入魂 (久经沙场)
+哈希名：StatTrak™ AK-47 | Head Shot (Field-Tested)
+
+序号：380
+ID：16444
+名称：AK-47（StatTrak™） | 一发入魂 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Head Shot (Factory New)
+
+序号：381
+ID：16447
+名称：AK-47（StatTrak™） | 一发入魂 (破损不堪)
+哈希名：StatTrak™ AK-47 | Head Shot (Well-Worn)
+
+序号：382
+ID：16449
+名称：AK-47（StatTrak™） | 一发入魂 (战痕累累)
+哈希名：StatTrak™ AK-47 | Head Shot (Battle-Scarred)
+
+序号：383
+ID：16492
+名称：AK-47 | 钢铁三角洲 (略有磨损)
+哈希名：AK-47 | Steel Delta (Minimal Wear)
+
+序号：384
+ID：16498
+名称：AK-47 | 钢铁三角洲 (崭新出厂)
+哈希名：AK-47 | Steel Delta (Factory New)
+
+序号：385
+ID：16509
+名称：AK-47 | 钢铁三角洲 (久经沙场)
+哈希名：AK-47 | Steel Delta (Field-Tested)
+
+序号：386
+ID：16519
+名称：AK-47 | 钢铁三角洲 (战痕累累)
+哈希名：AK-47 | Steel Delta (Battle-Scarred)
+
+序号：387
+ID：16553
+名称：AK-47 | 钢铁三角洲 (破损不堪)
+哈希名：AK-47 | Steel Delta (Well-Worn)
+
+序号：388
+ID：17195
+名称：AK-47（纪念品） | 钢铁三角洲 (略有磨损)
+哈希名：Souvenir AK-47 | Steel Delta (Minimal Wear)
+
+序号：389
+ID：17212
+名称：AK-47（纪念品） | 钢铁三角洲 (战痕累累)
+哈希名：Souvenir AK-47 | Steel Delta (Battle-Scarred)
+
+序号：390
+ID：17213
+名称：AK-47（纪念品） | 钢铁三角洲 (久经沙场)
+哈希名：Souvenir AK-47 | Steel Delta (Field-Tested)
+
+序号：391
+ID：17224
+名称：AK-47（纪念品） | 钢铁三角洲 (崭新出厂)
+哈希名：Souvenir AK-47 | Steel Delta (Factory New)
+
+序号：392
+ID：17232
+名称：AK-47（纪念品） | 钢铁三角洲 (破损不堪)
+哈希名：Souvenir AK-47 | Steel Delta (Well-Worn)
+
+序号：393
+ID：17244
+名称：AK-47 | 二西莫夫 (略有磨损)
+哈希名：AK-47 | Asiimov (Minimal Wear)
+
+序号：394
+ID：18812
+名称：AK-47 | 卡特尔 (略有磨损)
+哈希名：AK-47 | Cartel (Minimal Wear)
+
+序号：395
+ID：18814
+名称：AK-47 | 前线迷雾 (久经沙场)
+哈希名：AK-47 | Frontside Misty (Field-Tested)
+
+序号：396
+ID：18817
+名称：AK-47 | 深海复仇 (略有磨损)
+哈希名：AK-47 | Aquamarine Revenge (Minimal Wear)
+
+序号：397
+ID：19357
+名称：AK-47 | 轨道 Mk01 (崭新出厂)
+哈希名：AK-47 | Orbit Mk01 (Factory New)
+
+序号：398
+ID：19370
+名称：AK-47（StatTrak™） | 霓虹革命 (久经沙场)
+哈希名：StatTrak™ AK-47 | Neon Revolution (Field-Tested)
+
+序号：399
+ID：19377
+名称：AK-47（StatTrak™） | 霓虹革命 (略有磨损)
+哈希名：StatTrak™ AK-47 | Neon Revolution (Minimal Wear)
+
+序号：400
+ID：19606
+名称：AK-47 | 传承 (战痕累累)
+哈希名：AK-47 | Inheritance (Battle-Scarred)
+
+序号：401
+ID：19609
+名称：AK-47 | 传承 (久经沙场)
+哈希名：AK-47 | Inheritance (Field-Tested)
+
+序号：402
+ID：19612
+名称：AK-47 | 传承 (破损不堪)
+哈希名：AK-47 | Inheritance (Well-Worn)
+
+序号：403
+ID：19615
+名称：AK-47（StatTrak™） | 传承 (战痕累累)
+哈希名：StatTrak™ AK-47 | Inheritance (Battle-Scarred)
+
+序号：404
+ID：19616
+名称：AK-47（StatTrak™） | 传承 (破损不堪)
+哈希名：StatTrak™ AK-47 | Inheritance (Well-Worn)
+
+序号：405
+ID：19619
+名称：AK-47 | 传承 (略有磨损)
+哈希名：AK-47 | Inheritance (Minimal Wear)
+
+序号：406
+ID：19620
+名称：AK-47（StatTrak™） | 传承 (久经沙场)
+哈希名：StatTrak™ AK-47 | Inheritance (Field-Tested)
+
+序号：407
+ID：19653
+名称：AK-47 | 传承 (崭新出厂)
+哈希名：AK-47 | Inheritance (Factory New)
+
+序号：408
+ID：19654
+名称：AK-47（StatTrak™） | 传承 (略有磨损)
+哈希名：StatTrak™ AK-47 | Inheritance (Minimal Wear)
+
+序号：409
+ID：19679
+名称：AK-47（StatTrak™） | 传承 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Inheritance (Factory New)
+
+序号：410
+ID：20329
+名称：AK-47 | 局外人 (崭新出厂)
+哈希名：AK-47 | The Outsiders (Factory New)
+
+序号：411
+ID：20330
+名称：AK-47 | 局外人 (略有磨损)
+哈希名：AK-47 | The Outsiders (Minimal Wear)
+
+序号：412
+ID：20331
+名称：AK-47 | 局外人 (久经沙场)
+哈希名：AK-47 | The Outsiders (Field-Tested)
+
+序号：413
+ID：20332
+名称：AK-47 | 局外人 (破损不堪)
+哈希名：AK-47 | The Outsiders (Well-Worn)
+
+序号：414
+ID：20333
+名称：AK-47 | 局外人 (战痕累累)
+哈希名：AK-47 | The Outsiders (Battle-Scarred)
+
+序号：415
+ID：20334
+名称：AK-47（StatTrak™） | 局外人 (战痕累累)
+哈希名：StatTrak™ AK-47 | The Outsiders (Battle-Scarred)
+
+序号：416
+ID：20335
+名称：AK-47（StatTrak™） | 局外人 (崭新出厂)
+哈希名：StatTrak™ AK-47 | The Outsiders (Factory New)
+
+序号：417
+ID：20336
+名称：AK-47（StatTrak™） | 局外人 (略有磨损)
+哈希名：StatTrak™ AK-47 | The Outsiders (Minimal Wear)
+
+序号：418
+ID：20337
+名称：AK-47（StatTrak™） | 局外人 (久经沙场)
+哈希名：StatTrak™ AK-47 | The Outsiders (Field-Tested)
+
+序号：419
+ID：20338
+名称：AK-47（StatTrak™） | 局外人 (破损不堪)
+哈希名：StatTrak™ AK-47 | The Outsiders (Well-Worn)
+
+序号：420
+ID：20489
+名称：AK-47 | 交叉渐变 (崭新出厂)
+哈希名：AK-47 | Crossfade (Factory New)
+
+序号：421
+ID：20490
+名称：AK-47 | 交叉渐变 (略有磨损)
+哈希名：AK-47 | Crossfade (Minimal Wear)
+
+序号：422
+ID：20491
+名称：AK-47 | 交叉渐变 (久经沙场)
+哈希名：AK-47 | Crossfade (Field-Tested)
+
+序号：423
+ID：20492
+名称：AK-47 | 交叉渐变 (破损不堪)
+哈希名：AK-47 | Crossfade (Well-Worn)
+
+序号：424
+ID：20493
+名称：AK-47 | 交叉渐变 (战痕累累)
+哈希名：AK-47 | Crossfade (Battle-Scarred)
+
+序号：425
+ID：20535
+名称：AK-47 | 怪兽在B (崭新出厂)
+哈希名：AK-47 | B the Monster (Factory New)
+
+序号：426
+ID：20536
+名称：AK-47 | 怪兽在B (略有磨损)
+哈希名：AK-47 | B the Monster (Minimal Wear)
+
+序号：427
+ID：20537
+名称：AK-47 | 怪兽在B (久经沙场)
+哈希名：AK-47 | B the Monster (Field-Tested)
+
+序号：428
+ID：20538
+名称：AK-47 | 怪兽在B (破损不堪)
+哈希名：AK-47 | B the Monster (Well-Worn)
+
+序号：429
+ID：20539
+名称：AK-47 | 怪兽在B (战痕累累)
+哈希名：AK-47 | B the Monster (Battle-Scarred)
+
+序号：430
+ID：20653
+名称：AK-47 | 橄榄迷彩 (崭新出厂)
+哈希名：AK-47 | Olive Polycam (Factory New)
+
+序号：431
+ID：20654
+名称：AK-47 | 橄榄迷彩 (略有磨损)
+哈希名：AK-47 | Olive Polycam (Minimal Wear)
+
+序号：432
+ID：20655
+名称：AK-47 | 橄榄迷彩 (久经沙场)
+哈希名：AK-47 | Olive Polycam (Field-Tested)
+
+序号：433
+ID：20656
+名称：AK-47 | 橄榄迷彩 (破损不堪)
+哈希名：AK-47 | Olive Polycam (Well-Worn)
+
+序号：434
+ID：20657
+名称：AK-47 | 橄榄迷彩 (战痕累累)
+哈希名：AK-47 | Olive Polycam (Battle-Scarred)
+
+序号：435
+ID：21495
+名称：AK-47 | 寒翠 (崭新出厂)
+哈希名：AK-47 | Wintergreen (Factory New)
+
+序号：436
+ID：21496
+名称：AK-47 | 寒翠 (略有磨损)
+哈希名：AK-47 | Wintergreen (Minimal Wear)
+
+序号：437
+ID：21497
+名称：AK-47 | 寒翠 (久经沙场)
+哈希名：AK-47 | Wintergreen (Field-Tested)
+
+序号：438
+ID：21498
+名称：AK-47 | 寒翠 (破损不堪)
+哈希名：AK-47 | Wintergreen (Well-Worn)
+
+序号：439
+ID：21499
+名称：AK-47 | 寒翠 (战痕累累)
+哈希名：AK-47 | Wintergreen (Battle-Scarred)
+
+序号：440
+ID：21519
+名称：AK-47 | 灰变迷彩 (崭新出厂)
+哈希名：AK-47 | VariCamo Grey (Factory New)
+
+序号：441
+ID：21520
+名称：AK-47 | 灰变迷彩 (略有磨损)
+哈希名：AK-47 | VariCamo Grey (Minimal Wear)
+
+序号：442
+ID：21521
+名称：AK-47 | 灰变迷彩 (久经沙场)
+哈希名：AK-47 | VariCamo Grey (Field-Tested)
+
+序号：443
+ID：21522
+名称：AK-47 | 灰变迷彩 (破损不堪)
+哈希名：AK-47 | VariCamo Grey (Well-Worn)
+
+序号：444
+ID：21523
+名称：AK-47 | 灰变迷彩 (战痕累累)
+哈希名：AK-47 | VariCamo Grey (Battle-Scarred)
+
+序号：445
+ID：21577
+名称：AK-47 | 午夜层压板 (崭新出厂)
+哈希名：AK-47 | Midnight Laminate (Factory New)
+
+序号：446
+ID：21578
+名称：AK-47 | 午夜层压板 (略有磨损)
+哈希名：AK-47 | Midnight Laminate (Minimal Wear)
+
+序号：447
+ID：21631
+名称：AK-47 | 新红浪潮 (崭新出厂)
+哈希名：AK-47 | Nouveau Rouge (Factory New)
+
+序号：448
+ID：21632
+名称：AK-47 | 新红浪潮 (略有磨损)
+哈希名：AK-47 | Nouveau Rouge (Minimal Wear)
+
+序号：449
+ID：21633
+名称：AK-47 | 新红浪潮 (久经沙场)
+哈希名：AK-47 | Nouveau Rouge (Field-Tested)
+
+序号：450
+ID：21730
+名称：AK-47 | 灼心怒焰 (崭新出厂)
+哈希名：AK-47 | Searing Rage (Factory New)
+
+序号：451
+ID：21947
+名称：AK-47 | 午夜层压板 (久经沙场)
+哈希名：AK-47 | Midnight Laminate (Field-Tested)
+
+序号：452
+ID：21948
+名称：AK-47 | 午夜层压板 (破损不堪)
+哈希名：AK-47 | Midnight Laminate (Well-Worn)
+
+序号：453
+ID：21971
+名称：AK-47 | 午夜层压板 (战痕累累)
+哈希名：AK-47 | Midnight Laminate (Battle-Scarred)
+
+序号：454
+ID：22013
+名称：AK-47 | 新红浪潮 (破损不堪)
+哈希名：AK-47 | Nouveau Rouge (Well-Worn)
+
+序号：455
+ID：22014
+名称：AK-47 | 新红浪潮 (战痕累累)
+哈希名：AK-47 | Nouveau Rouge (Battle-Scarred)
+
+序号：456
+ID：22105
+名称：AK-47 | 灼心怒焰 (略有磨损)
+哈希名：AK-47 | Searing Rage (Minimal Wear)
+
+序号：457
+ID：22106
+名称：AK-47 | 灼心怒焰 (久经沙场)
+哈希名：AK-47 | Searing Rage (Field-Tested)
+
+序号：458
+ID：22107
+名称：AK-47 | 灼心怒焰 (破损不堪)
+哈希名：AK-47 | Searing Rage (Well-Worn)
+
+序号：459
+ID：22108
+名称：AK-47 | 灼心怒焰 (战痕累累)
+哈希名：AK-47 | Searing Rage (Battle-Scarred)
+
+序号：460
+ID：22109
+名称：AK-47（StatTrak™） | 灼心怒焰 (战痕累累)
+哈希名：StatTrak™ AK-47 | Searing Rage (Battle-Scarred)
+
+序号：461
+ID：22110
+名称：AK-47（StatTrak™） | 灼心怒焰 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Searing Rage (Factory New)
+
+序号：462
+ID：22111
+名称：AK-47（StatTrak™） | 灼心怒焰 (略有磨损)
+哈希名：StatTrak™ AK-47 | Searing Rage (Minimal Wear)
+
+序号：463
+ID：22112
+名称：AK-47（StatTrak™） | 灼心怒焰 (久经沙场)
+哈希名：StatTrak™ AK-47 | Searing Rage (Field-Tested)
+
+序号：464
+ID：22113
+名称：AK-47（StatTrak™） | 灼心怒焰 (破损不堪)
+哈希名：StatTrak™ AK-47 | Searing Rage (Well-Worn)
+
+序号：465
+ID：23871
+名称：AK-47 | 流金王朝 (久经沙场)
+哈希名：AK-47 | The Oligarch (Field-Tested)
+
+序号：466
+ID：23872
+名称：AK-47 | 流金王朝 (崭新出厂)
+哈希名：AK-47 | The Oligarch (Factory New)
+
+序号：467
+ID：23873
+名称：AK-47 | 流金王朝 (战痕累累)
+哈希名：AK-47 | The Oligarch (Battle-Scarred)
+
+序号：468
+ID：23874
+名称：AK-47 | 流金王朝 (略有磨损)
+哈希名：AK-47 | The Oligarch (Minimal Wear)
+
+序号：469
+ID：23875
+名称：AK-47 | 流金王朝 (破损不堪)
+哈希名：AK-47 | The Oligarch (Well-Worn)
+
+序号：470
+ID：23876
+名称：AK-47（StatTrak™） | 流金王朝 (久经沙场)
+哈希名：StatTrak™ AK-47 | The Oligarch (Field-Tested)
+
+序号：471
+ID：23877
+名称：AK-47（StatTrak™） | 流金王朝 (崭新出厂)
+哈希名：StatTrak™ AK-47 | The Oligarch (Factory New)
+
+序号：472
+ID：23878
+名称：AK-47（StatTrak™） | 流金王朝 (战痕累累)
+哈希名：StatTrak™ AK-47 | The Oligarch (Battle-Scarred)
+
+序号：473
+ID：23879
+名称：AK-47（StatTrak™） | 流金王朝 (略有磨损)
+哈希名：StatTrak™ AK-47 | The Oligarch (Minimal Wear)
+
+序号：474
+ID：23880
+名称：AK-47（StatTrak™） | 流金王朝 (破损不堪)
+哈希名：StatTrak™ AK-47 | The Oligarch (Well-Worn)
+
+序号：475
+ID：24994
+名称：AK-47 | 突破 (崭新出厂)
+哈希名：AK-47 | Breakthrough (Factory New)
+
+序号：476
+ID：24995
+名称：AK-47 | 突破 (略有磨损)
+哈希名：AK-47 | Breakthrough (Minimal Wear)
+
+序号：477
+ID：24996
+名称：AK-47 | 突破 (久经沙场)
+哈希名：AK-47 | Breakthrough (Field-Tested)
+
+序号：478
+ID：24997
+名称：AK-47 | 突破 (破损不堪)
+哈希名：AK-47 | Breakthrough (Well-Worn)
+
+序号：479
+ID：24998
+名称：AK-47 | 突破 (战痕累累)
+哈希名：AK-47 | Breakthrough (Battle-Scarred)
+
+序号：480
+ID：25089
+名称：AK-47 | 爱神 (崭新出厂)
+哈希名：AK-47 | Aphrodite (Factory New)
+
+序号：481
+ID：25090
+名称：AK-47 | 爱神 (略有磨损)
+哈希名：AK-47 | Aphrodite (Minimal Wear)
+
+序号：482
+ID：25091
+名称：AK-47 | 爱神 (久经沙场)
+哈希名：AK-47 | Aphrodite (Field-Tested)
+
+序号：483
+ID：25092
+名称：AK-47 | 爱神 (破损不堪)
+哈希名：AK-47 | Aphrodite (Well-Worn)
+
+序号：484
+ID：25093
+名称：AK-47 | 爱神 (战痕累累)
+哈希名：AK-47 | Aphrodite (Battle-Scarred)
+
+序号：485
+ID：25119
+名称：AK-47 | 翔鹤 (崭新出厂)
+哈希名：AK-47 | Crane Flight (Factory New)
+
+序号：486
+ID：25120
+名称：AK-47 | 翔鹤 (略有磨损)
+哈希名：AK-47 | Crane Flight (Minimal Wear)
+
+序号：487
+ID：25121
+名称：AK-47 | 翔鹤 (久经沙场)
+哈希名：AK-47 | Crane Flight (Field-Tested)
+
+序号：488
+ID：25122
+名称：AK-47 | 翔鹤 (破损不堪)
+哈希名：AK-47 | Crane Flight (Well-Worn)
+
+序号：489
+ID：25123
+名称：AK-47 | 翔鹤 (战痕累累)
+哈希名：AK-47 | Crane Flight (Battle-Scarred)
+
+序号：490
+ID：25124
+名称：AK-47（StatTrak™） | 翔鹤 (战痕累累)
+哈希名：StatTrak™ AK-47 | Crane Flight (Battle-Scarred)
+
+序号：491
+ID：25125
+名称：AK-47（StatTrak™） | 翔鹤 (崭新出厂)
+哈希名：StatTrak™ AK-47 | Crane Flight (Factory New)
+
+序号：492
+ID：25126
+名称：AK-47（StatTrak™） | 翔鹤 (略有磨损)
+哈希名：StatTrak™ AK-47 | Crane Flight (Minimal Wear)
+
+序号：493
+ID：25127
+名称：AK-47（StatTrak™） | 翔鹤 (久经沙场)
+哈希名：StatTrak™ AK-47 | Crane Flight (Field-Tested)
+
+序号：494
+ID：25128
+名称：AK-47（StatTrak™） | 翔鹤 (破损不堪)
+哈希名：StatTrak™ AK-47 | Crane Flight (Well-Worn)
+
+序号：495
+ID：25841
+名称：AK-47（纪念品） | 怪兽在B (破损不堪)
+哈希名：Souvenir AK-47 | B the Monster (Well-Worn)
+
+序号：496
+ID：25842
+名称：AK-47（纪念品） | 怪兽在B (略有磨损)
+哈希名：Souvenir AK-47 | B the Monster (Minimal Wear)
+
+序号：497
+ID：25843
+名称：AK-47（纪念品） | 怪兽在B (久经沙场)
+哈希名：Souvenir AK-47 | B the Monster (Field-Tested)
+
+序号：498
+ID：25844
+名称：AK-47（纪念品） | 怪兽在B (崭新出厂)
+哈希名：Souvenir AK-47 | B the Monster (Factory New)
+
+序号：499
+ID：25845
+名称：AK-47（纪念品） | 怪兽在B (战痕累累)
+哈希名：Souvenir AK-47 | B the Monster (Battle-Scarred)
+
+======================================================================
+原始JSON数据
+[
+  {
+    "id": 30,
+    "name": "AK-47 | 精英之作 (战痕累累)",
+    "market_hash_name": "AK-47 | Elite Build (Battle-Scarred)"
+  },
+  {
+    "id": 35,
+    "name": "AK-47 | 卡特尔 (久经沙场)",
+    "market_hash_name": "AK-47 | Cartel (Field-Tested)"
+  },
+  {
+    "id": 37,
+    "name": "AK-47 | 深海复仇 (战痕累累)",
+    "market_hash_name": "AK-47 | Aquamarine Revenge (Battle-Scarred)"
+  },
+  {
+    "id": 38,
+    "name": "AK-47 | 深海复仇 (崭新出厂)",
+    "market_hash_name": "AK-47 | Aquamarine Revenge (Factory New)"
+  },
+  {
+    "id": 39,
+    "name": "AK-47 | 深海复仇 (久经沙场)",
+    "market_hash_name": "AK-47 | Aquamarine Revenge (Field-Tested)"
+  },
+  {
+    "id": 40,
+    "name": "AK-47 | 深海复仇 (破损不堪)",
+    "market_hash_name": "AK-47 | Aquamarine Revenge (Well-Worn)"
+  },
+  {
+    "id": 41,
+    "name": "AK-47 | 黑色层压板 (战痕累累)",
+    "market_hash_name": "AK-47 | Black Laminate (Battle-Scarred)"
+  },
+  {
+    "id": 42,
+    "name": "AK-47 | 黑色层压板 (崭新出厂)",
+    "market_hash_name": "AK-47 | Black Laminate (Factory New)"
+  },
+  {
+    "id": 43,
+    "name": "AK-47 | 黑色层压板 (久经沙场)",
+    "market_hash_name": "AK-47 | Black Laminate (Field-Tested)"
+  },
+  {
+    "id": 44,
+    "name": "AK-47 | 黑色层压板 (略有磨损)",
+    "market_hash_name": "AK-47 | Black Laminate (Minimal Wear)"
+  },
+  {
+    "id": 45,
+    "name": "AK-47 | 黑色层压板 (破损不堪)",
+    "market_hash_name": "AK-47 | Black Laminate (Well-Worn)"
+  },
+  {
+    "id": 46,
+    "name": "AK-47 | 血腥运动 (崭新出厂)",
+    "market_hash_name": "AK-47 | Bloodsport (Factory New)"
+  },
+  {
+    "id": 47,
+    "name": "AK-47 | 血腥运动 (久经沙场)",
+    "market_hash_name": "AK-47 | Bloodsport (Field-Tested)"
+  },
+  {
+    "id": 48,
+    "name": "AK-47 | 血腥运动 (略有磨损)",
+    "market_hash_name": "AK-47 | Bloodsport (Minimal Wear)"
+  },
+  {
+    "id": 49,
+    "name": "AK-47 | 血腥运动 (破损不堪)",
+    "market_hash_name": "AK-47 | Bloodsport (Well-Worn)"
+  },
+  {
+    "id": 50,
+    "name": "AK-47 | 蓝色层压板 (崭新出厂)",
+    "market_hash_name": "AK-47 | Blue Laminate (Factory New)"
+  },
+  {
+    "id": 51,
+    "name": "AK-47 | 蓝色层压板 (久经沙场)",
+    "market_hash_name": "AK-47 | Blue Laminate (Field-Tested)"
+  },
+  {
+    "id": 52,
+    "name": "AK-47 | 蓝色层压板 (略有磨损)",
+    "market_hash_name": "AK-47 | Blue Laminate (Minimal Wear)"
+  },
+  {
+    "id": 53,
+    "name": "AK-47 | 蓝色层压板 (破损不堪)",
+    "market_hash_name": "AK-47 | Blue Laminate (Well-Worn)"
+  },
+  {
+    "id": 54,
+    "name": "AK-47 | 卡特尔 (战痕累累)",
+    "market_hash_name": "AK-47 | Cartel (Battle-Scarred)"
+  },
+  {
+    "id": 55,
+    "name": "AK-47 | 卡特尔 (崭新出厂)",
+    "market_hash_name": "AK-47 | Cartel (Factory New)"
+  },
+  {
+    "id": 56,
+    "name": "AK-47 | 卡特尔 (破损不堪)",
+    "market_hash_name": "AK-47 | Cartel (Well-Worn)"
+  },
+  {
+    "id": 57,
+    "name": "AK-47 | 表面淬火 (战痕累累)",
+    "market_hash_name": "AK-47 | Case Hardened (Battle-Scarred)"
+  },
+  {
+    "id": 58,
+    "name": "AK-47 | 表面淬火 (崭新出厂)",
+    "market_hash_name": "AK-47 | Case Hardened (Factory New)"
+  },
+  {
+    "id": 59,
+    "name": "AK-47 | 表面淬火 (久经沙场)",
+    "market_hash_name": "AK-47 | Case Hardened (Field-Tested)"
+  },
+  {
+    "id": 60,
+    "name": "AK-47 | 表面淬火 (略有磨损)",
+    "market_hash_name": "AK-47 | Case Hardened (Minimal Wear)"
+  },
+  {
+    "id": 61,
+    "name": "AK-47 | 表面淬火 (破损不堪)",
+    "market_hash_name": "AK-47 | Case Hardened (Well-Worn)"
+  },
+  {
+    "id": 62,
+    "name": "AK-47 | 精英之作 (崭新出厂)",
+    "market_hash_name": "AK-47 | Elite Build (Factory New)"
+  },
+  {
+    "id": 63,
+    "name": "AK-47 | 精英之作 (久经沙场)",
+    "market_hash_name": "AK-47 | Elite Build (Field-Tested)"
+  },
+  {
+    "id": 64,
+    "name": "AK-47 | 精英之作 (略有磨损)",
+    "market_hash_name": "AK-47 | Elite Build (Minimal Wear)"
+  },
+  {
+    "id": 65,
+    "name": "AK-47 | 精英之作 (破损不堪)",
+    "market_hash_name": "AK-47 | Elite Build (Well-Worn)"
+  },
+  {
+    "id": 66,
+    "name": "AK-47 | 翡翠细条纹 (战痕累累)",
+    "market_hash_name": "AK-47 | Emerald Pinstripe (Battle-Scarred)"
+  },
+  {
+    "id": 67,
+    "name": "AK-47 | 翡翠细条纹 (崭新出厂)",
+    "market_hash_name": "AK-47 | Emerald Pinstripe (Factory New)"
+  },
+  {
+    "id": 68,
+    "name": "AK-47 | 翡翠细条纹 (久经沙场)",
+    "market_hash_name": "AK-47 | Emerald Pinstripe (Field-Tested)"
+  },
+  {
+    "id": 69,
+    "name": "AK-47 | 翡翠细条纹 (略有磨损)",
+    "market_hash_name": "AK-47 | Emerald Pinstripe (Minimal Wear)"
+  },
+  {
+    "id": 70,
+    "name": "AK-47 | 翡翠细条纹 (破损不堪)",
+    "market_hash_name": "AK-47 | Emerald Pinstripe (Well-Worn)"
+  },
+  {
+    "id": 71,
+    "name": "AK-47 | 火蛇 (战痕累累)",
+    "market_hash_name": "AK-47 | Fire Serpent (Battle-Scarred)"
+  },
+  {
+    "id": 72,
+    "name": "AK-47 | 火蛇 (崭新出厂)",
+    "market_hash_name": "AK-47 | Fire Serpent (Factory New)"
+  },
+  {
+    "id": 73,
+    "name": "AK-47 | 火蛇 (久经沙场)",
+    "market_hash_name": "AK-47 | Fire Serpent (Field-Tested)"
+  },
+  {
+    "id": 74,
+    "name": "AK-47 | 火蛇 (略有磨损)",
+    "market_hash_name": "AK-47 | Fire Serpent (Minimal Wear)"
+  },
+  {
+    "id": 75,
+    "name": "AK-47 | 火蛇 (破损不堪)",
+    "market_hash_name": "AK-47 | Fire Serpent (Well-Worn)"
+  },
+  {
+    "id": 76,
+    "name": "AK-47 | 至高皮革 (战痕累累)",
+    "market_hash_name": "AK-47 | First Class (Battle-Scarred)"
+  },
+  {
+    "id": 77,
+    "name": "AK-47 | 至高皮革 (崭新出厂)",
+    "market_hash_name": "AK-47 | First Class (Factory New)"
+  },
+  {
+    "id": 78,
+    "name": "AK-47 | 至高皮革 (久经沙场)",
+    "market_hash_name": "AK-47 | First Class (Field-Tested)"
+  },
+  {
+    "id": 79,
+    "name": "AK-47 | 至高皮革 (略有磨损)",
+    "market_hash_name": "AK-47 | First Class (Minimal Wear)"
+  },
+  {
+    "id": 80,
+    "name": "AK-47 | 至高皮革 (破损不堪)",
+    "market_hash_name": "AK-47 | First Class (Well-Worn)"
+  },
+  {
+    "id": 81,
+    "name": "AK-47 | 前线迷雾 (战痕累累)",
+    "market_hash_name": "AK-47 | Frontside Misty (Battle-Scarred)"
+  },
+  {
+    "id": 82,
+    "name": "AK-47 | 前线迷雾 (崭新出厂)",
+    "market_hash_name": "AK-47 | Frontside Misty (Factory New)"
+  },
+  {
+    "id": 83,
+    "name": "AK-47 | 前线迷雾 (略有磨损)",
+    "market_hash_name": "AK-47 | Frontside Misty (Minimal Wear)"
+  },
+  {
+    "id": 84,
+    "name": "AK-47 | 前线迷雾 (破损不堪)",
+    "market_hash_name": "AK-47 | Frontside Misty (Well-Worn)"
+  },
+  {
+    "id": 85,
+    "name": "AK-47 | 燃料喷射器 (战痕累累)",
+    "market_hash_name": "AK-47 | Fuel Injector (Battle-Scarred)"
+  },
+  {
+    "id": 86,
+    "name": "AK-47 | 燃料喷射器 (崭新出厂)",
+    "market_hash_name": "AK-47 | Fuel Injector (Factory New)"
+  },
+  {
+    "id": 87,
+    "name": "AK-47 | 燃料喷射器 (久经沙场)",
+    "market_hash_name": "AK-47 | Fuel Injector (Field-Tested)"
+  },
+  {
+    "id": 88,
+    "name": "AK-47 | 燃料喷射器 (略有磨损)",
+    "market_hash_name": "AK-47 | Fuel Injector (Minimal Wear)"
+  },
+  {
+    "id": 89,
+    "name": "AK-47 | 燃料喷射器 (破损不堪)",
+    "market_hash_name": "AK-47 | Fuel Injector (Well-Worn)"
+  },
+  {
+    "id": 90,
+    "name": "AK-47 | 水栽竹 (战痕累累)",
+    "market_hash_name": "AK-47 | Hydroponic (Battle-Scarred)"
+  },
+  {
+    "id": 91,
+    "name": "AK-47 | 水栽竹 (崭新出厂)",
+    "market_hash_name": "AK-47 | Hydroponic (Factory New)"
+  },
+  {
+    "id": 92,
+    "name": "AK-47 | 水栽竹 (久经沙场)",
+    "market_hash_name": "AK-47 | Hydroponic (Field-Tested)"
+  },
+  {
+    "id": 93,
+    "name": "AK-47 | 水栽竹 (略有磨损)",
+    "market_hash_name": "AK-47 | Hydroponic (Minimal Wear)"
+  },
+  {
+    "id": 94,
+    "name": "AK-47 | 水栽竹 (破损不堪)",
+    "market_hash_name": "AK-47 | Hydroponic (Well-Worn)"
+  },
+  {
+    "id": 95,
+    "name": "AK-47 | 美洲猛虎 (战痕累累)",
+    "market_hash_name": "AK-47 | Jaguar (Battle-Scarred)"
+  },
+  {
+    "id": 96,
+    "name": "AK-47 | 美洲猛虎 (崭新出厂)",
+    "market_hash_name": "AK-47 | Jaguar (Factory New)"
+  },
+  {
+    "id": 97,
+    "name": "AK-47 | 美洲猛虎 (久经沙场)",
+    "market_hash_name": "AK-47 | Jaguar (Field-Tested)"
+  },
+  {
+    "id": 98,
+    "name": "AK-47 | 美洲猛虎 (略有磨损)",
+    "market_hash_name": "AK-47 | Jaguar (Minimal Wear)"
+  },
+  {
+    "id": 99,
+    "name": "AK-47 | 美洲猛虎 (破损不堪)",
+    "market_hash_name": "AK-47 | Jaguar (Well-Worn)"
+  },
+  {
+    "id": 100,
+    "name": "AK-47 | 酷炫涂鸦皮革 (战痕累累)",
+    "market_hash_name": "AK-47 | Jet Set (Battle-Scarred)"
+  },
+  {
+    "id": 101,
+    "name": "AK-47 | 酷炫涂鸦皮革 (崭新出厂)",
+    "market_hash_name": "AK-47 | Jet Set (Factory New)"
+  },
+  {
+    "id": 102,
+    "name": "AK-47 | 酷炫涂鸦皮革 (久经沙场)",
+    "market_hash_name": "AK-47 | Jet Set (Field-Tested)"
+  },
+  {
+    "id": 103,
+    "name": "AK-47 | 酷炫涂鸦皮革 (略有磨损)",
+    "market_hash_name": "AK-47 | Jet Set (Minimal Wear)"
+  },
+  {
+    "id": 104,
+    "name": "AK-47 | 酷炫涂鸦皮革 (破损不堪)",
+    "market_hash_name": "AK-47 | Jet Set (Well-Worn)"
+  },
+  {
+    "id": 105,
+    "name": "AK-47 | 丛林涂装 (战痕累累)",
+    "market_hash_name": "AK-47 | Jungle Spray (Battle-Scarred)"
+  },
+  {
+    "id": 106,
+    "name": "AK-47 | 丛林涂装 (崭新出厂)",
+    "market_hash_name": "AK-47 | Jungle Spray (Factory New)"
+  },
+  {
+    "id": 107,
+    "name": "AK-47 | 丛林涂装 (久经沙场)",
+    "market_hash_name": "AK-47 | Jungle Spray (Field-Tested)"
+  },
+  {
+    "id": 108,
+    "name": "AK-47 | 丛林涂装 (略有磨损)",
+    "market_hash_name": "AK-47 | Jungle Spray (Minimal Wear)"
+  },
+  {
+    "id": 109,
+    "name": "AK-47 | 丛林涂装 (破损不堪)",
+    "market_hash_name": "AK-47 | Jungle Spray (Well-Worn)"
+  },
+  {
+    "id": 110,
+    "name": "AK-47 | 霓虹革命 (战痕累累)",
+    "market_hash_name": "AK-47 | Neon Revolution (Battle-Scarred)"
+  },
+  {
+    "id": 111,
+    "name": "AK-47 | 霓虹革命 (崭新出厂)",
+    "market_hash_name": "AK-47 | Neon Revolution (Factory New)"
+  },
+  {
+    "id": 112,
+    "name": "AK-47 | 霓虹革命 (久经沙场)",
+    "market_hash_name": "AK-47 | Neon Revolution (Field-Tested)"
+  },
+  {
+    "id": 113,
+    "name": "AK-47 | 霓虹革命 (略有磨损)",
+    "market_hash_name": "AK-47 | Neon Revolution (Minimal Wear)"
+  },
+  {
+    "id": 114,
+    "name": "AK-47 | 霓虹革命 (破损不堪)",
+    "market_hash_name": "AK-47 | Neon Revolution (Well-Worn)"
+  },
+  {
+    "id": 115,
+    "name": "AK-47 | 轨道 Mk01 (战痕累累)",
+    "market_hash_name": "AK-47 | Orbit Mk01 (Battle-Scarred)"
+  },
+  {
+    "id": 116,
+    "name": "AK-47 | 轨道 Mk01 (久经沙场)",
+    "market_hash_name": "AK-47 | Orbit Mk01 (Field-Tested)"
+  },
+  {
+    "id": 117,
+    "name": "AK-47 | 轨道 Mk01 (略有磨损)",
+    "market_hash_name": "AK-47 | Orbit Mk01 (Minimal Wear)"
+  },
+  {
+    "id": 118,
+    "name": "AK-47 | 轨道 Mk01 (破损不堪)",
+    "market_hash_name": "AK-47 | Orbit Mk01 (Well-Worn)"
+  },
+  {
+    "id": 119,
+    "name": "AK-47 | 混沌点阵 (战痕累累)",
+    "market_hash_name": "AK-47 | Point Disarray (Battle-Scarred)"
+  },
+  {
+    "id": 120,
+    "name": "AK-47 | 混沌点阵 (崭新出厂)",
+    "market_hash_name": "AK-47 | Point Disarray (Factory New)"
+  },
+  {
+    "id": 121,
+    "name": "AK-47 | 混沌点阵 (久经沙场)",
+    "market_hash_name": "AK-47 | Point Disarray (Field-Tested)"
+  },
+  {
+    "id": 122,
+    "name": "AK-47 | 混沌点阵 (略有磨损)",
+    "market_hash_name": "AK-47 | Point Disarray (Minimal Wear)"
+  },
+  {
+    "id": 123,
+    "name": "AK-47 | 混沌点阵 (破损不堪)",
+    "market_hash_name": "AK-47 | Point Disarray (Well-Worn)"
+  },
+  {
+    "id": 124,
+    "name": "AK-47 | 捕食者 (战痕累累)",
+    "market_hash_name": "AK-47 | Predator (Battle-Scarred)"
+  },
+  {
+    "id": 125,
+    "name": "AK-47 | 捕食者 (崭新出厂)",
+    "market_hash_name": "AK-47 | Predator (Factory New)"
+  },
+  {
+    "id": 126,
+    "name": "AK-47 | 捕食者 (久经沙场)",
+    "market_hash_name": "AK-47 | Predator (Field-Tested)"
+  },
+  {
+    "id": 127,
+    "name": "AK-47 | 捕食者 (略有磨损)",
+    "market_hash_name": "AK-47 | Predator (Minimal Wear)"
+  },
+  {
+    "id": 128,
+    "name": "AK-47 | 捕食者 (破损不堪)",
+    "market_hash_name": "AK-47 | Predator (Well-Worn)"
+  },
+  {
+    "id": 129,
+    "name": "AK-47 | 红色层压板 (战痕累累)",
+    "market_hash_name": "AK-47 | Red Laminate (Battle-Scarred)"
+  },
+  {
+    "id": 130,
+    "name": "AK-47 | 红色层压板 (崭新出厂)",
+    "market_hash_name": "AK-47 | Red Laminate (Factory New)"
+  },
+  {
+    "id": 131,
+    "name": "AK-47 | 红色层压板 (久经沙场)",
+    "market_hash_name": "AK-47 | Red Laminate (Field-Tested)"
+  },
+  {
+    "id": 132,
+    "name": "AK-47 | 红色层压板 (略有磨损)",
+    "market_hash_name": "AK-47 | Red Laminate (Minimal Wear)"
+  },
+  {
+    "id": 133,
+    "name": "AK-47 | 红色层压板 (破损不堪)",
+    "market_hash_name": "AK-47 | Red Laminate (Well-Worn)"
+  },
+  {
+    "id": 134,
+    "name": "AK-47 | 红线 (战痕累累)",
+    "market_hash_name": "AK-47 | Redline (Battle-Scarred)"
+  },
+  {
+    "id": 135,
+    "name": "AK-47 | 红线 (久经沙场)",
+    "market_hash_name": "AK-47 | Redline (Field-Tested)"
+  },
+  {
+    "id": 136,
+    "name": "AK-47 | 红线 (略有磨损)",
+    "market_hash_name": "AK-47 | Redline (Minimal Wear)"
+  },
+  {
+    "id": 137,
+    "name": "AK-47 | 红线 (破损不堪)",
+    "market_hash_name": "AK-47 | Redline (Well-Worn)"
+  },
+  {
+    "id": 138,
+    "name": "AK-47 | 狩猎网格 (战痕累累)",
+    "market_hash_name": "AK-47 | Safari Mesh (Battle-Scarred)"
+  },
+  {
+    "id": 139,
+    "name": "AK-47 | 狩猎网格 (崭新出厂)",
+    "market_hash_name": "AK-47 | Safari Mesh (Factory New)"
+  },
+  {
+    "id": 140,
+    "name": "AK-47 | 狩猎网格 (久经沙场)",
+    "market_hash_name": "AK-47 | Safari Mesh (Field-Tested)"
+  },
+  {
+    "id": 141,
+    "name": "AK-47 | 狩猎网格 (略有磨损)",
+    "market_hash_name": "AK-47 | Safari Mesh (Minimal Wear)"
+  },
+  {
+    "id": 142,
+    "name": "AK-47 | 狩猎网格 (破损不堪)",
+    "market_hash_name": "AK-47 | Safari Mesh (Well-Worn)"
+  },
+  {
+    "id": 143,
+    "name": "AK-47 | 皇后 (战痕累累)",
+    "market_hash_name": "AK-47 | The Empress (Battle-Scarred)"
+  },
+  {
+    "id": 144,
+    "name": "AK-47 | 皇后 (崭新出厂)",
+    "market_hash_name": "AK-47 | The Empress (Factory New)"
+  },
+  {
+    "id": 145,
+    "name": "AK-47 | 皇后 (久经沙场)",
+    "market_hash_name": "AK-47 | The Empress (Field-Tested)"
+  },
+  {
+    "id": 146,
+    "name": "AK-47 | 皇后 (略有磨损)",
+    "market_hash_name": "AK-47 | The Empress (Minimal Wear)"
+  },
+  {
+    "id": 147,
+    "name": "AK-47 | 皇后 (破损不堪)",
+    "market_hash_name": "AK-47 | The Empress (Well-Worn)"
+  },
+  {
+    "id": 148,
+    "name": "AK-47 | 火神 (战痕累累)",
+    "market_hash_name": "AK-47 | Vulcan (Battle-Scarred)"
+  },
+  {
+    "id": 149,
+    "name": "AK-47 | 火神 (崭新出厂)",
+    "market_hash_name": "AK-47 | Vulcan (Factory New)"
+  },
+  {
+    "id": 150,
+    "name": "AK-47 | 火神 (久经沙场)",
+    "market_hash_name": "AK-47 | Vulcan (Field-Tested)"
+  },
+  {
+    "id": 151,
+    "name": "AK-47 | 火神 (略有磨损)",
+    "market_hash_name": "AK-47 | Vulcan (Minimal Wear)"
+  },
+  {
+    "id": 152,
+    "name": "AK-47 | 火神 (破损不堪)",
+    "market_hash_name": "AK-47 | Vulcan (Well-Worn)"
+  },
+  {
+    "id": 153,
+    "name": "AK-47 | 荒野反叛 (战痕累累)",
+    "market_hash_name": "AK-47 | Wasteland Rebel (Battle-Scarred)"
+  },
+  {
+    "id": 154,
+    "name": "AK-47 | 荒野反叛 (崭新出厂)",
+    "market_hash_name": "AK-47 | Wasteland Rebel (Factory New)"
+  },
+  {
+    "id": 155,
+    "name": "AK-47 | 荒野反叛 (久经沙场)",
+    "market_hash_name": "AK-47 | Wasteland Rebel (Field-Tested)"
+  },
+  {
+    "id": 156,
+    "name": "AK-47 | 荒野反叛 (略有磨损)",
+    "market_hash_name": "AK-47 | Wasteland Rebel (Minimal Wear)"
+  },
+  {
+    "id": 157,
+    "name": "AK-47 | 荒野反叛 (破损不堪)",
+    "market_hash_name": "AK-47 | Wasteland Rebel (Well-Worn)"
+  },
+  {
+    "id": 2359,
+    "name": "AK-47（纪念品） | 狩猎网格 (战痕累累)",
+    "market_hash_name": "Souvenir AK-47 | Safari Mesh (Battle-Scarred)"
+  },
+  {
+    "id": 2360,
+    "name": "AK-47（纪念品） | 狩猎网格 (崭新出厂)",
+    "market_hash_name": "Souvenir AK-47 | Safari Mesh (Factory New)"
+  },
+  {
+    "id": 2361,
+    "name": "AK-47（纪念品） | 狩猎网格 (久经沙场)",
+    "market_hash_name": "Souvenir AK-47 | Safari Mesh (Field-Tested)"
+  },
+  {
+    "id": 2362,
+    "name": "AK-47（纪念品） | 狩猎网格 (略有磨损)",
+    "market_hash_name": "Souvenir AK-47 | Safari Mesh (Minimal Wear)"
+  },
+  {
+    "id": 2363,
+    "name": "AK-47（纪念品） | 狩猎网格 (破损不堪)",
+    "market_hash_name": "Souvenir AK-47 | Safari Mesh (Well-Worn)"
+  },
+  {
+    "id": 2850,
+    "name": "AK-47（StatTrak™） | 深海复仇 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Aquamarine Revenge (Battle-Scarred)"
+  },
+  {
+    "id": 2851,
+    "name": "AK-47（StatTrak™） | 深海复仇 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Aquamarine Revenge (Factory New)"
+  },
+  {
+    "id": 2852,
+    "name": "AK-47（StatTrak™） | 深海复仇 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Aquamarine Revenge (Field-Tested)"
+  },
+  {
+    "id": 2853,
+    "name": "AK-47（StatTrak™） | 深海复仇 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Aquamarine Revenge (Minimal Wear)"
+  },
+  {
+    "id": 2854,
+    "name": "AK-47（StatTrak™） | 深海复仇 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Aquamarine Revenge (Well-Worn)"
+  },
+  {
+    "id": 2855,
+    "name": "AK-47（StatTrak™） | 血腥运动 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Bloodsport (Factory New)"
+  },
+  {
+    "id": 2856,
+    "name": "AK-47（StatTrak™） | 血腥运动 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Bloodsport (Field-Tested)"
+  },
+  {
+    "id": 2857,
+    "name": "AK-47（StatTrak™） | 血腥运动 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Bloodsport (Minimal Wear)"
+  },
+  {
+    "id": 2858,
+    "name": "AK-47（StatTrak™） | 血腥运动 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Bloodsport (Well-Worn)"
+  },
+  {
+    "id": 2859,
+    "name": "AK-47（StatTrak™） | 蓝色层压板 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Blue Laminate (Factory New)"
+  },
+  {
+    "id": 2860,
+    "name": "AK-47（StatTrak™） | 蓝色层压板 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Blue Laminate (Field-Tested)"
+  },
+  {
+    "id": 2861,
+    "name": "AK-47（StatTrak™） | 蓝色层压板 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Blue Laminate (Minimal Wear)"
+  },
+  {
+    "id": 2862,
+    "name": "AK-47（StatTrak™） | 蓝色层压板 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Blue Laminate (Well-Worn)"
+  },
+  {
+    "id": 2863,
+    "name": "AK-47（StatTrak™） | 卡特尔 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Cartel (Battle-Scarred)"
+  },
+  {
+    "id": 2864,
+    "name": "AK-47（StatTrak™） | 卡特尔 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Cartel (Factory New)"
+  },
+  {
+    "id": 2865,
+    "name": "AK-47（StatTrak™） | 卡特尔 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Cartel (Field-Tested)"
+  },
+  {
+    "id": 2866,
+    "name": "AK-47（StatTrak™） | 卡特尔 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Cartel (Minimal Wear)"
+  },
+  {
+    "id": 2867,
+    "name": "AK-47（StatTrak™） | 卡特尔 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Cartel (Well-Worn)"
+  },
+  {
+    "id": 2868,
+    "name": "AK-47（StatTrak™） | 表面淬火 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Battle-Scarred)"
+  },
+  {
+    "id": 2869,
+    "name": "AK-47（StatTrak™） | 表面淬火 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Factory New)"
+  },
+  {
+    "id": 2870,
+    "name": "AK-47（StatTrak™） | 表面淬火 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Field-Tested)"
+  },
+  {
+    "id": 2871,
+    "name": "AK-47（StatTrak™） | 表面淬火 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Minimal Wear)"
+  },
+  {
+    "id": 2872,
+    "name": "AK-47（StatTrak™） | 表面淬火 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Well-Worn)"
+  },
+  {
+    "id": 2873,
+    "name": "AK-47（StatTrak™） | 精英之作 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Elite Build (Battle-Scarred)"
+  },
+  {
+    "id": 2874,
+    "name": "AK-47（StatTrak™） | 精英之作 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Elite Build (Factory New)"
+  },
+  {
+    "id": 2875,
+    "name": "AK-47（StatTrak™） | 精英之作 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Elite Build (Field-Tested)"
+  },
+  {
+    "id": 2876,
+    "name": "AK-47（StatTrak™） | 精英之作 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Elite Build (Minimal Wear)"
+  },
+  {
+    "id": 2877,
+    "name": "AK-47（StatTrak™） | 精英之作 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Elite Build (Well-Worn)"
+  },
+  {
+    "id": 2878,
+    "name": "AK-47（StatTrak™） | 火蛇 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Battle-Scarred)"
+  },
+  {
+    "id": 2879,
+    "name": "AK-47（StatTrak™） | 火蛇 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Field-Tested)"
+  },
+  {
+    "id": 2880,
+    "name": "AK-47（StatTrak™） | 火蛇 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Minimal Wear)"
+  },
+  {
+    "id": 2881,
+    "name": "AK-47（StatTrak™） | 火蛇 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Well-Worn)"
+  },
+  {
+    "id": 2882,
+    "name": "AK-47（StatTrak™） | 前线迷雾 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Battle-Scarred)"
+  },
+  {
+    "id": 2883,
+    "name": "AK-47（StatTrak™） | 前线迷雾 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Factory New)"
+  },
+  {
+    "id": 2884,
+    "name": "AK-47（StatTrak™） | 前线迷雾 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Field-Tested)"
+  },
+  {
+    "id": 2885,
+    "name": "AK-47（StatTrak™） | 前线迷雾 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Minimal Wear)"
+  },
+  {
+    "id": 2886,
+    "name": "AK-47（StatTrak™） | 前线迷雾 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Well-Worn)"
+  },
+  {
+    "id": 2887,
+    "name": "AK-47（StatTrak™） | 燃料喷射器 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Battle-Scarred)"
+  },
+  {
+    "id": 2888,
+    "name": "AK-47（StatTrak™） | 燃料喷射器 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Factory New)"
+  },
+  {
+    "id": 2889,
+    "name": "AK-47（StatTrak™） | 燃料喷射器 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Field-Tested)"
+  },
+  {
+    "id": 2890,
+    "name": "AK-47（StatTrak™） | 燃料喷射器 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Minimal Wear)"
+  },
+  {
+    "id": 2891,
+    "name": "AK-47（StatTrak™） | 燃料喷射器 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Well-Worn)"
+  },
+  {
+    "id": 2892,
+    "name": "AK-47（StatTrak™） | 美洲猛虎 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Jaguar (Battle-Scarred)"
+  },
+  {
+    "id": 2893,
+    "name": "AK-47（StatTrak™） | 美洲猛虎 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Jaguar (Factory New)"
+  },
+  {
+    "id": 2894,
+    "name": "AK-47（StatTrak™） | 美洲猛虎 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Jaguar (Field-Tested)"
+  },
+  {
+    "id": 2895,
+    "name": "AK-47（StatTrak™） | 美洲猛虎 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Jaguar (Minimal Wear)"
+  },
+  {
+    "id": 2896,
+    "name": "AK-47（StatTrak™） | 美洲猛虎 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Jaguar (Well-Worn)"
+  },
+  {
+    "id": 2897,
+    "name": "AK-47（StatTrak™） | 霓虹革命 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Battle-Scarred)"
+  },
+  {
+    "id": 2898,
+    "name": "AK-47（StatTrak™） | 霓虹革命 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Factory New)"
+  },
+  {
+    "id": 2899,
+    "name": "AK-47（StatTrak™） | 霓虹革命 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Well-Worn)"
+  },
+  {
+    "id": 2900,
+    "name": "AK-47（StatTrak™） | 轨道 Mk01 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Battle-Scarred)"
+  },
+  {
+    "id": 2901,
+    "name": "AK-47（StatTrak™） | 轨道 Mk01 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Factory New)"
+  },
+  {
+    "id": 2902,
+    "name": "AK-47（StatTrak™） | 轨道 Mk01 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Field-Tested)"
+  },
+  {
+    "id": 2903,
+    "name": "AK-47（StatTrak™） | 轨道 Mk01 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Minimal Wear)"
+  },
+  {
+    "id": 2904,
+    "name": "AK-47（StatTrak™） | 轨道 Mk01 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Well-Worn)"
+  },
+  {
+    "id": 2905,
+    "name": "AK-47（StatTrak™） | 混沌点阵 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Battle-Scarred)"
+  },
+  {
+    "id": 2906,
+    "name": "AK-47（StatTrak™） | 混沌点阵 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Factory New)"
+  },
+  {
+    "id": 2907,
+    "name": "AK-47（StatTrak™） | 混沌点阵 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Field-Tested)"
+  },
+  {
+    "id": 2908,
+    "name": "AK-47（StatTrak™） | 混沌点阵 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Minimal Wear)"
+  },
+  {
+    "id": 2909,
+    "name": "AK-47（StatTrak™） | 混沌点阵 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Well-Worn)"
+  },
+  {
+    "id": 2910,
+    "name": "AK-47（StatTrak™） | 红色层压板 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Red Laminate (Battle-Scarred)"
+  },
+  {
+    "id": 2911,
+    "name": "AK-47（StatTrak™） | 红色层压板 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Red Laminate (Factory New)"
+  },
+  {
+    "id": 2912,
+    "name": "AK-47（StatTrak™） | 红色层压板 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Red Laminate (Field-Tested)"
+  },
+  {
+    "id": 2913,
+    "name": "AK-47（StatTrak™） | 红色层压板 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Red Laminate (Minimal Wear)"
+  },
+  {
+    "id": 2914,
+    "name": "AK-47（StatTrak™） | 红色层压板 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Red Laminate (Well-Worn)"
+  },
+  {
+    "id": 2915,
+    "name": "AK-47（StatTrak™） | 红线 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Redline (Battle-Scarred)"
+  },
+  {
+    "id": 2916,
+    "name": "AK-47（StatTrak™） | 红线 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Redline (Field-Tested)"
+  },
+  {
+    "id": 2917,
+    "name": "AK-47（StatTrak™） | 红线 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Redline (Minimal Wear)"
+  },
+  {
+    "id": 2918,
+    "name": "AK-47（StatTrak™） | 红线 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Redline (Well-Worn)"
+  },
+  {
+    "id": 2919,
+    "name": "AK-47（StatTrak™） | 皇后 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | The Empress (Battle-Scarred)"
+  },
+  {
+    "id": 2920,
+    "name": "AK-47（StatTrak™） | 皇后 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | The Empress (Factory New)"
+  },
+  {
+    "id": 2921,
+    "name": "AK-47（StatTrak™） | 皇后 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | The Empress (Field-Tested)"
+  },
+  {
+    "id": 2922,
+    "name": "AK-47（StatTrak™） | 皇后 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | The Empress (Minimal Wear)"
+  },
+  {
+    "id": 2923,
+    "name": "AK-47（StatTrak™） | 皇后 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | The Empress (Well-Worn)"
+  },
+  {
+    "id": 2924,
+    "name": "AK-47（StatTrak™） | 火神 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Vulcan (Battle-Scarred)"
+  },
+  {
+    "id": 2925,
+    "name": "AK-47（StatTrak™） | 火神 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Vulcan (Factory New)"
+  },
+  {
+    "id": 2926,
+    "name": "AK-47（StatTrak™） | 火神 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Vulcan (Field-Tested)"
+  },
+  {
+    "id": 2927,
+    "name": "AK-47（StatTrak™） | 火神 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Vulcan (Minimal Wear)"
+  },
+  {
+    "id": 2928,
+    "name": "AK-47（StatTrak™） | 火神 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Vulcan (Well-Worn)"
+  },
+  {
+    "id": 2929,
+    "name": "AK-47（StatTrak™） | 荒野反叛 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Battle-Scarred)"
+  },
+  {
+    "id": 2930,
+    "name": "AK-47（StatTrak™） | 荒野反叛 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Factory New)"
+  },
+  {
+    "id": 2931,
+    "name": "AK-47（StatTrak™） | 荒野反叛 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Field-Tested)"
+  },
+  {
+    "id": 2932,
+    "name": "AK-47（StatTrak™） | 荒野反叛 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Minimal Wear)"
+  },
+  {
+    "id": 2933,
+    "name": "AK-47（StatTrak™） | 荒野反叛 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Well-Worn)"
+  },
+  {
+    "id": 8073,
+    "name": "AK-47（StatTrak™） | 火蛇 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Factory New)"
+  },
+  {
+    "id": 8480,
+    "name": "AK-47 | 霓虹骑士 (战痕累累)",
+    "market_hash_name": "AK-47 | Neon Rider (Battle-Scarred)"
+  },
+  {
+    "id": 8481,
+    "name": "AK-47 | 霓虹骑士 (略有磨损)",
+    "market_hash_name": "AK-47 | Neon Rider (Minimal Wear)"
+  },
+  {
+    "id": 8563,
+    "name": "AK-47 | 霓虹骑士 (久经沙场)",
+    "market_hash_name": "AK-47 | Neon Rider (Field-Tested)"
+  },
+  {
+    "id": 8566,
+    "name": "AK-47 | 霓虹骑士 (崭新出厂)",
+    "market_hash_name": "AK-47 | Neon Rider (Factory New)"
+  },
+  {
+    "id": 8568,
+    "name": "AK-47（StatTrak™） | 霓虹骑士 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Battle-Scarred)"
+  },
+  {
+    "id": 8569,
+    "name": "AK-47（StatTrak™） | 霓虹骑士 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Field-Tested)"
+  },
+  {
+    "id": 8613,
+    "name": "AK-47（StatTrak™） | 霓虹骑士 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Minimal Wear)"
+  },
+  {
+    "id": 8650,
+    "name": "AK-47 | 霓虹骑士 (破损不堪)",
+    "market_hash_name": "AK-47 | Neon Rider (Well-Worn)"
+  },
+  {
+    "id": 8651,
+    "name": "AK-47（StatTrak™） | 霓虹骑士 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Well-Worn)"
+  },
+  {
+    "id": 8684,
+    "name": "AK-47（StatTrak™） | 霓虹骑士 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Factory New)"
+  },
+  {
+    "id": 9358,
+    "name": "AK-47（纪念品） | 安全网 (久经沙场)",
+    "market_hash_name": "Souvenir AK-47 | Safety Net (Field-Tested)"
+  },
+  {
+    "id": 9359,
+    "name": "AK-47（纪念品） | 安全网 (崭新出厂)",
+    "market_hash_name": "Souvenir AK-47 | Safety Net (Factory New)"
+  },
+  {
+    "id": 9396,
+    "name": "AK-47（纪念品） | 安全网 (战痕累累)",
+    "market_hash_name": "Souvenir AK-47 | Safety Net (Battle-Scarred)"
+  },
+  {
+    "id": 9397,
+    "name": "AK-47（纪念品） | 安全网 (破损不堪)",
+    "market_hash_name": "Souvenir AK-47 | Safety Net (Well-Worn)"
+  },
+  {
+    "id": 9432,
+    "name": "AK-47（纪念品） | 安全网 (略有磨损)",
+    "market_hash_name": "Souvenir AK-47 | Safety Net (Minimal Wear)"
+  },
+  {
+    "id": 9558,
+    "name": "AK-47 | 安全网 (战痕累累)",
+    "market_hash_name": "AK-47 | Safety Net (Battle-Scarred)"
+  },
+  {
+    "id": 9559,
+    "name": "AK-47 | 安全网 (久经沙场)",
+    "market_hash_name": "AK-47 | Safety Net (Field-Tested)"
+  },
+  {
+    "id": 9560,
+    "name": "AK-47 | 安全网 (破损不堪)",
+    "market_hash_name": "AK-47 | Safety Net (Well-Worn)"
+  },
+  {
+    "id": 9612,
+    "name": "AK-47 | 安全网 (崭新出厂)",
+    "market_hash_name": "AK-47 | Safety Net (Factory New)"
+  },
+  {
+    "id": 9646,
+    "name": "AK-47 | 安全网 (略有磨损)",
+    "market_hash_name": "AK-47 | Safety Net (Minimal Wear)"
+  },
+  {
+    "id": 9720,
+    "name": "AK-47 | 二西莫夫 (久经沙场)",
+    "market_hash_name": "AK-47 | Asiimov (Field-Tested)"
+  },
+  {
+    "id": 9787,
+    "name": "AK-47 | 二西莫夫 (战痕累累)",
+    "market_hash_name": "AK-47 | Asiimov (Battle-Scarred)"
+  },
+  {
+    "id": 9789,
+    "name": "AK-47（StatTrak™） | 二西莫夫 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Asiimov (Field-Tested)"
+  },
+  {
+    "id": 9839,
+    "name": "AK-47 | 二西莫夫 (崭新出厂)",
+    "market_hash_name": "AK-47 | Asiimov (Factory New)"
+  },
+  {
+    "id": 9842,
+    "name": "AK-47（StatTrak™） | 二西莫夫 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Asiimov (Minimal Wear)"
+  },
+  {
+    "id": 9845,
+    "name": "AK-47（StatTrak™） | 二西莫夫 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Asiimov (Factory New)"
+  },
+  {
+    "id": 9846,
+    "name": "AK-47（StatTrak™） | 二西莫夫 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Asiimov (Well-Worn)"
+  },
+  {
+    "id": 9855,
+    "name": "AK-47 | 二西莫夫 (破损不堪)",
+    "market_hash_name": "AK-47 | Asiimov (Well-Worn)"
+  },
+  {
+    "id": 9856,
+    "name": "AK-47（StatTrak™） | 二西莫夫 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Asiimov (Battle-Scarred)"
+  },
+  {
+    "id": 10338,
+    "name": "AK-47 | 迷踪秘境 (久经沙场)",
+    "market_hash_name": "AK-47 | Uncharted (Field-Tested)"
+  },
+  {
+    "id": 10347,
+    "name": "AK-47 | 迷踪秘境 (略有磨损)",
+    "market_hash_name": "AK-47 | Uncharted (Minimal Wear)"
+  },
+  {
+    "id": 10365,
+    "name": "AK-47 | 迷踪秘境 (崭新出厂)",
+    "market_hash_name": "AK-47 | Uncharted (Factory New)"
+  },
+  {
+    "id": 10375,
+    "name": "AK-47（StatTrak™） | 迷踪秘境 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Uncharted (Battle-Scarred)"
+  },
+  {
+    "id": 10387,
+    "name": "AK-47（StatTrak™） | 迷踪秘境 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Uncharted (Field-Tested)"
+  },
+  {
+    "id": 10388,
+    "name": "AK-47（StatTrak™） | 迷踪秘境 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Uncharted (Factory New)"
+  },
+  {
+    "id": 10389,
+    "name": "AK-47 | 迷踪秘境 (战痕累累)",
+    "market_hash_name": "AK-47 | Uncharted (Battle-Scarred)"
+  },
+  {
+    "id": 10397,
+    "name": "AK-47 | 迷踪秘境 (破损不堪)",
+    "market_hash_name": "AK-47 | Uncharted (Well-Worn)"
+  },
+  {
+    "id": 10411,
+    "name": "AK-47（StatTrak™） | 迷踪秘境 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Uncharted (Minimal Wear)"
+  },
+  {
+    "id": 10438,
+    "name": "AK-47（StatTrak™） | 迷踪秘境 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Uncharted (Well-Worn)"
+  },
+  {
+    "id": 11116,
+    "name": "AK-47（纪念品） | 黑色层压板 (久经沙场)",
+    "market_hash_name": "Souvenir AK-47 | Black Laminate (Field-Tested)"
+  },
+  {
+    "id": 11118,
+    "name": "AK-47（纪念品） | 黑色层压板 (战痕累累)",
+    "market_hash_name": "Souvenir AK-47 | Black Laminate (Battle-Scarred)"
+  },
+  {
+    "id": 11120,
+    "name": "AK-47（纪念品） | 黑色层压板 (略有磨损)",
+    "market_hash_name": "Souvenir AK-47 | Black Laminate (Minimal Wear)"
+  },
+  {
+    "id": 11121,
+    "name": "AK-47（纪念品） | 黑色层压板 (破损不堪)",
+    "market_hash_name": "Souvenir AK-47 | Black Laminate (Well-Worn)"
+  },
+  {
+    "id": 11127,
+    "name": "AK-47（纪念品） | 黑色层压板 (崭新出厂)",
+    "market_hash_name": "Souvenir AK-47 | Black Laminate (Factory New)"
+  },
+  {
+    "id": 11470,
+    "name": "AK-47 | 巴洛克之紫 (久经沙场)",
+    "market_hash_name": "AK-47 | Baroque Purple (Field-Tested)"
+  },
+  {
+    "id": 11520,
+    "name": "AK-47（StatTrak™） | 复古浪潮 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Field-Tested)"
+  },
+  {
+    "id": 11530,
+    "name": "AK-47 | 巴洛克之紫 (战痕累累)",
+    "market_hash_name": "AK-47 | Baroque Purple (Battle-Scarred)"
+  },
+  {
+    "id": 11531,
+    "name": "AK-47 | 复古浪潮 (久经沙场)",
+    "market_hash_name": "AK-47 | Rat Rod (Field-Tested)"
+  },
+  {
+    "id": 11543,
+    "name": "AK-47 | 复古浪潮 (崭新出厂)",
+    "market_hash_name": "AK-47 | Rat Rod (Factory New)"
+  },
+  {
+    "id": 11576,
+    "name": "AK-47（StatTrak™） | 复古浪潮 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Battle-Scarred)"
+  },
+  {
+    "id": 11598,
+    "name": "AK-47 | 复古浪潮 (战痕累累)",
+    "market_hash_name": "AK-47 | Rat Rod (Battle-Scarred)"
+  },
+  {
+    "id": 11601,
+    "name": "AK-47 | 复古浪潮 (略有磨损)",
+    "market_hash_name": "AK-47 | Rat Rod (Minimal Wear)"
+  },
+  {
+    "id": 11617,
+    "name": "AK-47 | 复古浪潮 (破损不堪)",
+    "market_hash_name": "AK-47 | Rat Rod (Well-Worn)"
+  },
+  {
+    "id": 11652,
+    "name": "AK-47 | 巴洛克之紫 (破损不堪)",
+    "market_hash_name": "AK-47 | Baroque Purple (Well-Worn)"
+  },
+  {
+    "id": 11661,
+    "name": "AK-47 | 巴洛克之紫 (崭新出厂)",
+    "market_hash_name": "AK-47 | Baroque Purple (Factory New)"
+  },
+  {
+    "id": 11662,
+    "name": "AK-47（StatTrak™） | 复古浪潮 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Well-Worn)"
+  },
+  {
+    "id": 11672,
+    "name": "AK-47 | 巴洛克之紫 (略有磨损)",
+    "market_hash_name": "AK-47 | Baroque Purple (Minimal Wear)"
+  },
+  {
+    "id": 11689,
+    "name": "AK-47（StatTrak™） | 复古浪潮 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Minimal Wear)"
+  },
+  {
+    "id": 11768,
+    "name": "AK-47 | 野荷 (久经沙场)",
+    "market_hash_name": "AK-47 | Wild Lotus (Field-Tested)"
+  },
+  {
+    "id": 11774,
+    "name": "AK-47（StatTrak™） | 复古浪潮 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Factory New)"
+  },
+  {
+    "id": 11782,
+    "name": "AK-47 | 野荷 (略有磨损)",
+    "market_hash_name": "AK-47 | Wild Lotus (Minimal Wear)"
+  },
+  {
+    "id": 11784,
+    "name": "AK-47 | 野荷 (破损不堪)",
+    "market_hash_name": "AK-47 | Wild Lotus (Well-Worn)"
+  },
+  {
+    "id": 11904,
+    "name": "AK-47 | 野荷 (崭新出厂)",
+    "market_hash_name": "AK-47 | Wild Lotus (Factory New)"
+  },
+  {
+    "id": 11934,
+    "name": "AK-47 | 野荷 (战痕累累)",
+    "market_hash_name": "AK-47 | Wild Lotus (Battle-Scarred)"
+  },
+  {
+    "id": 12202,
+    "name": "AK-47 | 幻影破坏者 (略有磨损)",
+    "market_hash_name": "AK-47 | Phantom Disruptor (Minimal Wear)"
+  },
+  {
+    "id": 12204,
+    "name": "AK-47 | 幻影破坏者 (久经沙场)",
+    "market_hash_name": "AK-47 | Phantom Disruptor (Field-Tested)"
+  },
+  {
+    "id": 12248,
+    "name": "AK-47 | 幻影破坏者 (崭新出厂)",
+    "market_hash_name": "AK-47 | Phantom Disruptor (Factory New)"
+  },
+  {
+    "id": 12268,
+    "name": "AK-47（StatTrak™） | 幻影破坏者 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Phantom Disruptor (Field-Tested)"
+  },
+  {
+    "id": 12270,
+    "name": "AK-47 | 幻影破坏者 (战痕累累)",
+    "market_hash_name": "AK-47 | Phantom Disruptor (Battle-Scarred)"
+  },
+  {
+    "id": 12276,
+    "name": "AK-47 | 幻影破坏者 (破损不堪)",
+    "market_hash_name": "AK-47 | Phantom Disruptor (Well-Worn)"
+  },
+  {
+    "id": 12277,
+    "name": "AK-47（StatTrak™） | 幻影破坏者 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Phantom Disruptor (Minimal Wear)"
+  },
+  {
+    "id": 12310,
+    "name": "AK-47（StatTrak™） | 幻影破坏者 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Phantom Disruptor (Factory New)"
+  },
+  {
+    "id": 12312,
+    "name": "AK-47（StatTrak™） | 幻影破坏者 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Phantom Disruptor (Battle-Scarred)"
+  },
+  {
+    "id": 12323,
+    "name": "AK-47（StatTrak™） | 幻影破坏者 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Phantom Disruptor (Well-Worn)"
+  },
+  {
+    "id": 12397,
+    "name": "AK-47 | 阿努比斯军团 (战痕累累)",
+    "market_hash_name": "AK-47 | Legion of Anubis (Battle-Scarred)"
+  },
+  {
+    "id": 12446,
+    "name": "AK-47 | 阿努比斯军团 (崭新出厂)",
+    "market_hash_name": "AK-47 | Legion of Anubis (Factory New)"
+  },
+  {
+    "id": 12452,
+    "name": "AK-47 | 阿努比斯军团 (略有磨损)",
+    "market_hash_name": "AK-47 | Legion of Anubis (Minimal Wear)"
+  },
+  {
+    "id": 12462,
+    "name": "AK-47 | 阿努比斯军团 (久经沙场)",
+    "market_hash_name": "AK-47 | Legion of Anubis (Field-Tested)"
+  },
+  {
+    "id": 12473,
+    "name": "AK-47（StatTrak™） | 阿努比斯军团 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Legion of Anubis (Minimal Wear)"
+  },
+  {
+    "id": 12474,
+    "name": "AK-47（StatTrak™） | 阿努比斯军团 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Legion of Anubis (Factory New)"
+  },
+  {
+    "id": 12487,
+    "name": "AK-47 | 阿努比斯军团 (破损不堪)",
+    "market_hash_name": "AK-47 | Legion of Anubis (Well-Worn)"
+  },
+  {
+    "id": 12488,
+    "name": "AK-47（StatTrak™） | 阿努比斯军团 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Legion of Anubis (Battle-Scarred)"
+  },
+  {
+    "id": 12492,
+    "name": "AK-47（StatTrak™） | 阿努比斯军团 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Legion of Anubis (Field-Tested)"
+  },
+  {
+    "id": 12500,
+    "name": "AK-47（StatTrak™） | 阿努比斯军团 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Legion of Anubis (Well-Worn)"
+  },
+  {
+    "id": 12703,
+    "name": "印花 | Hello AK-47",
+    "market_hash_name": "Sticker | Hello AK-47"
+  },
+  {
+    "id": 12787,
+    "name": "印花 | Hello AK-47（金色）",
+    "market_hash_name": "Sticker | Hello AK-47 (Gold)"
+  },
+  {
+    "id": 12799,
+    "name": "AK-47 | X 射线 (略有磨损)",
+    "market_hash_name": "AK-47 | X-Ray (Minimal Wear)"
+  },
+  {
+    "id": 12834,
+    "name": "AK-47 | X 射线 (战痕累累)",
+    "market_hash_name": "AK-47 | X-Ray (Battle-Scarred)"
+  },
+  {
+    "id": 12835,
+    "name": "AK-47 | 美洲豹 (崭新出厂)",
+    "market_hash_name": "AK-47 | Panthera onca (Factory New)"
+  },
+  {
+    "id": 12839,
+    "name": "AK-47 | 美洲豹 (略有磨损)",
+    "market_hash_name": "AK-47 | Panthera onca (Minimal Wear)"
+  },
+  {
+    "id": 12869,
+    "name": "AK-47 | 美洲豹 (战痕累累)",
+    "market_hash_name": "AK-47 | Panthera onca (Battle-Scarred)"
+  },
+  {
+    "id": 12875,
+    "name": "AK-47 | X 射线 (破损不堪)",
+    "market_hash_name": "AK-47 | X-Ray (Well-Worn)"
+  },
+  {
+    "id": 12921,
+    "name": "AK-47 | 美洲豹 (破损不堪)",
+    "market_hash_name": "AK-47 | Panthera onca (Well-Worn)"
+  },
+  {
+    "id": 12935,
+    "name": "AK-47 | 美洲豹 (久经沙场)",
+    "market_hash_name": "AK-47 | Panthera onca (Field-Tested)"
+  },
+  {
+    "id": 12967,
+    "name": "AK-47 | X 射线 (久经沙场)",
+    "market_hash_name": "AK-47 | X-Ray (Field-Tested)"
+  },
+  {
+    "id": 13031,
+    "name": "AK-47 | X 射线 (崭新出厂)",
+    "market_hash_name": "AK-47 | X-Ray (Factory New)"
+  },
+  {
+    "id": 13183,
+    "name": "AK-47 | 墨岩 (略有磨损)",
+    "market_hash_name": "AK-47 | Slate (Minimal Wear)"
+  },
+  {
+    "id": 13193,
+    "name": "AK-47 | 墨岩 (久经沙场)",
+    "market_hash_name": "AK-47 | Slate (Field-Tested)"
+  },
+  {
+    "id": 13197,
+    "name": "AK-47 | 墨岩 (战痕累累)",
+    "market_hash_name": "AK-47 | Slate (Battle-Scarred)"
+  },
+  {
+    "id": 13199,
+    "name": "AK-47 | 墨岩 (破损不堪)",
+    "market_hash_name": "AK-47 | Slate (Well-Worn)"
+  },
+  {
+    "id": 13239,
+    "name": "AK-47（StatTrak™） | 墨岩 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Slate (Field-Tested)"
+  },
+  {
+    "id": 13246,
+    "name": "AK-47（StatTrak™） | 墨岩 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Slate (Well-Worn)"
+  },
+  {
+    "id": 13257,
+    "name": "AK-47 | 墨岩 (崭新出厂)",
+    "market_hash_name": "AK-47 | Slate (Factory New)"
+  },
+  {
+    "id": 13278,
+    "name": "AK-47（StatTrak™） | 墨岩 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Slate (Minimal Wear)"
+  },
+  {
+    "id": 13279,
+    "name": "AK-47（StatTrak™） | 墨岩 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Slate (Factory New)"
+  },
+  {
+    "id": 13289,
+    "name": "AK-47（StatTrak™） | 墨岩 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Slate (Battle-Scarred)"
+  },
+  {
+    "id": 13363,
+    "name": "AK-47 | 抽象派 1337 (略有磨损)",
+    "market_hash_name": "AK-47 | Leet Museo (Minimal Wear)"
+  },
+  {
+    "id": 13493,
+    "name": "AK-47 | 抽象派 1337 (崭新出厂)",
+    "market_hash_name": "AK-47 | Leet Museo (Factory New)"
+  },
+  {
+    "id": 13575,
+    "name": "AK-47 | 抽象派 1337 (久经沙场)",
+    "market_hash_name": "AK-47 | Leet Museo (Field-Tested)"
+  },
+  {
+    "id": 13589,
+    "name": "AK-47 | 抽象派 1337 (战痕累累)",
+    "market_hash_name": "AK-47 | Leet Museo (Battle-Scarred)"
+  },
+  {
+    "id": 13715,
+    "name": "AK-47 | 绿色层压板 (久经沙场)",
+    "market_hash_name": "AK-47 | Green Laminate (Field-Tested)"
+  },
+  {
+    "id": 13718,
+    "name": "AK-47 | 黄金藤蔓 (久经沙场)",
+    "market_hash_name": "AK-47 | Gold Arabesque (Field-Tested)"
+  },
+  {
+    "id": 13733,
+    "name": "AK-47 | 黄金藤蔓 (略有磨损)",
+    "market_hash_name": "AK-47 | Gold Arabesque (Minimal Wear)"
+  },
+  {
+    "id": 13740,
+    "name": "AK-47 | 绿色层压板 (崭新出厂)",
+    "market_hash_name": "AK-47 | Green Laminate (Factory New)"
+  },
+  {
+    "id": 13791,
+    "name": "AK-47 | 黄金藤蔓 (崭新出厂)",
+    "market_hash_name": "AK-47 | Gold Arabesque (Factory New)"
+  },
+  {
+    "id": 13793,
+    "name": "AK-47 | 绿色层压板 (略有磨损)",
+    "market_hash_name": "AK-47 | Green Laminate (Minimal Wear)"
+  },
+  {
+    "id": 13817,
+    "name": "AK-47 | 黄金藤蔓 (战痕累累)",
+    "market_hash_name": "AK-47 | Gold Arabesque (Battle-Scarred)"
+  },
+  {
+    "id": 13823,
+    "name": "AK-47（StatTrak™） | 抽象派 1337 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Leet Museo (Field-Tested)"
+  },
+  {
+    "id": 13852,
+    "name": "AK-47（StatTrak™） | 抽象派 1337 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Leet Museo (Factory New)"
+  },
+  {
+    "id": 13872,
+    "name": "AK-47（StatTrak™） | 抽象派 1337 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Leet Museo (Minimal Wear)"
+  },
+  {
+    "id": 13938,
+    "name": "AK-47 | 抽象派 1337 (破损不堪)",
+    "market_hash_name": "AK-47 | Leet Museo (Well-Worn)"
+  },
+  {
+    "id": 13952,
+    "name": "AK-47（StatTrak™） | 抽象派 1337 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Leet Museo (Battle-Scarred)"
+  },
+  {
+    "id": 13961,
+    "name": "AK-47 | 黄金藤蔓 (破损不堪)",
+    "market_hash_name": "AK-47 | Gold Arabesque (Well-Worn)"
+  },
+  {
+    "id": 13976,
+    "name": "AK-47（StatTrak™） | 抽象派 1337 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Leet Museo (Well-Worn)"
+  },
+  {
+    "id": 14006,
+    "name": "AK-47 | 绿色层压板 (破损不堪)",
+    "market_hash_name": "AK-47 | Green Laminate (Well-Worn)"
+  },
+  {
+    "id": 14305,
+    "name": "AK-47（纪念品） | 绿色层压板 (崭新出厂)",
+    "market_hash_name": "Souvenir AK-47 | Green Laminate (Factory New)"
+  },
+  {
+    "id": 14331,
+    "name": "AK-47（纪念品） | 绿色层压板 (久经沙场)",
+    "market_hash_name": "Souvenir AK-47 | Green Laminate (Field-Tested)"
+  },
+  {
+    "id": 14339,
+    "name": "AK-47（纪念品） | 绿色层压板 (略有磨损)",
+    "market_hash_name": "Souvenir AK-47 | Green Laminate (Minimal Wear)"
+  },
+  {
+    "id": 14350,
+    "name": "AK-47（纪念品） | 美洲豹 (久经沙场)",
+    "market_hash_name": "Souvenir AK-47 | Panthera onca (Field-Tested)"
+  },
+  {
+    "id": 14404,
+    "name": "AK-47（纪念品） | 绿色层压板 (破损不堪)",
+    "market_hash_name": "Souvenir AK-47 | Green Laminate (Well-Worn)"
+  },
+  {
+    "id": 14412,
+    "name": "AK-47（纪念品） | 美洲豹 (破损不堪)",
+    "market_hash_name": "Souvenir AK-47 | Panthera onca (Well-Worn)"
+  },
+  {
+    "id": 14414,
+    "name": "AK-47（纪念品） | 美洲豹 (略有磨损)",
+    "market_hash_name": "Souvenir AK-47 | Panthera onca (Minimal Wear)"
+  },
+  {
+    "id": 14417,
+    "name": "AK-47（纪念品） | 美洲豹 (战痕累累)",
+    "market_hash_name": "Souvenir AK-47 | Panthera onca (Battle-Scarred)"
+  },
+  {
+    "id": 14439,
+    "name": "AK-47（纪念品） | 美洲豹 (崭新出厂)",
+    "market_hash_name": "Souvenir AK-47 | Panthera onca (Factory New)"
+  },
+  {
+    "id": 14502,
+    "name": "AK-47（纪念品） | 黄金藤蔓 (略有磨损)",
+    "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Minimal Wear)"
+  },
+  {
+    "id": 14507,
+    "name": "AK-47（纪念品） | 黄金藤蔓 (崭新出厂)",
+    "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Factory New)"
+  },
+  {
+    "id": 14509,
+    "name": "AK-47（纪念品） | 黄金藤蔓 (久经沙场)",
+    "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Field-Tested)"
+  },
+  {
+    "id": 14511,
+    "name": "AK-47（纪念品） | 黄金藤蔓 (战痕累累)",
+    "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Battle-Scarred)"
+  },
+  {
+    "id": 14528,
+    "name": "AK-47（纪念品） | 黄金藤蔓 (破损不堪)",
+    "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Well-Worn)"
+  },
+  {
+    "id": 14730,
+    "name": "AK-47 | 夜愿 (略有磨损)",
+    "market_hash_name": "AK-47 | Nightwish (Minimal Wear)"
+  },
+  {
+    "id": 14738,
+    "name": "AK-47 | 夜愿 (久经沙场)",
+    "market_hash_name": "AK-47 | Nightwish (Field-Tested)"
+  },
+  {
+    "id": 14765,
+    "name": "AK-47 | 夜愿 (破损不堪)",
+    "market_hash_name": "AK-47 | Nightwish (Well-Worn)"
+  },
+  {
+    "id": 14772,
+    "name": "AK-47 | 夜愿 (战痕累累)",
+    "market_hash_name": "AK-47 | Nightwish (Battle-Scarred)"
+  },
+  {
+    "id": 14787,
+    "name": "AK-47（StatTrak™） | 夜愿 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Nightwish (Field-Tested)"
+  },
+  {
+    "id": 14788,
+    "name": "AK-47（StatTrak™） | 夜愿 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Nightwish (Minimal Wear)"
+  },
+  {
+    "id": 14797,
+    "name": "AK-47 | 夜愿 (崭新出厂)",
+    "market_hash_name": "AK-47 | Nightwish (Factory New)"
+  },
+  {
+    "id": 14799,
+    "name": "AK-47（StatTrak™） | 夜愿 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Nightwish (Battle-Scarred)"
+  },
+  {
+    "id": 14806,
+    "name": "AK-47（StatTrak™） | 夜愿 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Nightwish (Well-Worn)"
+  },
+  {
+    "id": 14808,
+    "name": "AK-47（StatTrak™） | 夜愿 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Nightwish (Factory New)"
+  },
+  {
+    "id": 15459,
+    "name": "AK-47 | 可燃冰 (略有磨损)",
+    "market_hash_name": "AK-47 | Ice Coaled (Minimal Wear)"
+  },
+  {
+    "id": 15475,
+    "name": "AK-47 | 可燃冰 (久经沙场)",
+    "market_hash_name": "AK-47 | Ice Coaled (Field-Tested)"
+  },
+  {
+    "id": 15487,
+    "name": "AK-47 | 可燃冰 (崭新出厂)",
+    "market_hash_name": "AK-47 | Ice Coaled (Factory New)"
+  },
+  {
+    "id": 15505,
+    "name": "AK-47 | 可燃冰 (破损不堪)",
+    "market_hash_name": "AK-47 | Ice Coaled (Well-Worn)"
+  },
+  {
+    "id": 15524,
+    "name": "AK-47 | 可燃冰 (战痕累累)",
+    "market_hash_name": "AK-47 | Ice Coaled (Battle-Scarred)"
+  },
+  {
+    "id": 15530,
+    "name": "AK-47（StatTrak™） | 可燃冰 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Field-Tested)"
+  },
+  {
+    "id": 15566,
+    "name": "AK-47（StatTrak™） | 可燃冰 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Minimal Wear)"
+  },
+  {
+    "id": 15572,
+    "name": "AK-47（StatTrak™） | 可燃冰 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Well-Worn)"
+  },
+  {
+    "id": 15573,
+    "name": "AK-47（StatTrak™） | 可燃冰 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Factory New)"
+  },
+  {
+    "id": 15575,
+    "name": "AK-47（StatTrak™） | 可燃冰 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Battle-Scarred)"
+  },
+  {
+    "id": 16318,
+    "name": "AK-47 | 一发入魂 (战痕累累)",
+    "market_hash_name": "AK-47 | Head Shot (Battle-Scarred)"
+  },
+  {
+    "id": 16339,
+    "name": "AK-47 | 一发入魂 (略有磨损)",
+    "market_hash_name": "AK-47 | Head Shot (Minimal Wear)"
+  },
+  {
+    "id": 16399,
+    "name": "AK-47 | 一发入魂 (破损不堪)",
+    "market_hash_name": "AK-47 | Head Shot (Well-Worn)"
+  },
+  {
+    "id": 16408,
+    "name": "AK-47 | 一发入魂 (久经沙场)",
+    "market_hash_name": "AK-47 | Head Shot (Field-Tested)"
+  },
+  {
+    "id": 16422,
+    "name": "AK-47 | 一发入魂 (崭新出厂)",
+    "market_hash_name": "AK-47 | Head Shot (Factory New)"
+  },
+  {
+    "id": 16437,
+    "name": "AK-47（StatTrak™） | 一发入魂 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Head Shot (Minimal Wear)"
+  },
+  {
+    "id": 16440,
+    "name": "AK-47（StatTrak™） | 一发入魂 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Head Shot (Field-Tested)"
+  },
+  {
+    "id": 16444,
+    "name": "AK-47（StatTrak™） | 一发入魂 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Head Shot (Factory New)"
+  },
+  {
+    "id": 16447,
+    "name": "AK-47（StatTrak™） | 一发入魂 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Head Shot (Well-Worn)"
+  },
+  {
+    "id": 16449,
+    "name": "AK-47（StatTrak™） | 一发入魂 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Head Shot (Battle-Scarred)"
+  },
+  {
+    "id": 16492,
+    "name": "AK-47 | 钢铁三角洲 (略有磨损)",
+    "market_hash_name": "AK-47 | Steel Delta (Minimal Wear)"
+  },
+  {
+    "id": 16498,
+    "name": "AK-47 | 钢铁三角洲 (崭新出厂)",
+    "market_hash_name": "AK-47 | Steel Delta (Factory New)"
+  },
+  {
+    "id": 16509,
+    "name": "AK-47 | 钢铁三角洲 (久经沙场)",
+    "market_hash_name": "AK-47 | Steel Delta (Field-Tested)"
+  },
+  {
+    "id": 16519,
+    "name": "AK-47 | 钢铁三角洲 (战痕累累)",
+    "market_hash_name": "AK-47 | Steel Delta (Battle-Scarred)"
+  },
+  {
+    "id": 16553,
+    "name": "AK-47 | 钢铁三角洲 (破损不堪)",
+    "market_hash_name": "AK-47 | Steel Delta (Well-Worn)"
+  },
+  {
+    "id": 17195,
+    "name": "AK-47（纪念品） | 钢铁三角洲 (略有磨损)",
+    "market_hash_name": "Souvenir AK-47 | Steel Delta (Minimal Wear)"
+  },
+  {
+    "id": 17212,
+    "name": "AK-47（纪念品） | 钢铁三角洲 (战痕累累)",
+    "market_hash_name": "Souvenir AK-47 | Steel Delta (Battle-Scarred)"
+  },
+  {
+    "id": 17213,
+    "name": "AK-47（纪念品） | 钢铁三角洲 (久经沙场)",
+    "market_hash_name": "Souvenir AK-47 | Steel Delta (Field-Tested)"
+  },
+  {
+    "id": 17224,
+    "name": "AK-47（纪念品） | 钢铁三角洲 (崭新出厂)",
+    "market_hash_name": "Souvenir AK-47 | Steel Delta (Factory New)"
+  },
+  {
+    "id": 17232,
+    "name": "AK-47（纪念品） | 钢铁三角洲 (破损不堪)",
+    "market_hash_name": "Souvenir AK-47 | Steel Delta (Well-Worn)"
+  },
+  {
+    "id": 17244,
+    "name": "AK-47 | 二西莫夫 (略有磨损)",
+    "market_hash_name": "AK-47 | Asiimov (Minimal Wear)"
+  },
+  {
+    "id": 18812,
+    "name": "AK-47 | 卡特尔 (略有磨损)",
+    "market_hash_name": "AK-47 | Cartel (Minimal Wear)"
+  },
+  {
+    "id": 18814,
+    "name": "AK-47 | 前线迷雾 (久经沙场)",
+    "market_hash_name": "AK-47 | Frontside Misty (Field-Tested)"
+  },
+  {
+    "id": 18817,
+    "name": "AK-47 | 深海复仇 (略有磨损)",
+    "market_hash_name": "AK-47 | Aquamarine Revenge (Minimal Wear)"
+  },
+  {
+    "id": 19357,
+    "name": "AK-47 | 轨道 Mk01 (崭新出厂)",
+    "market_hash_name": "AK-47 | Orbit Mk01 (Factory New)"
+  },
+  {
+    "id": 19370,
+    "name": "AK-47（StatTrak™） | 霓虹革命 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Field-Tested)"
+  },
+  {
+    "id": 19377,
+    "name": "AK-47（StatTrak™） | 霓虹革命 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Minimal Wear)"
+  },
+  {
+    "id": 19606,
+    "name": "AK-47 | 传承 (战痕累累)",
+    "market_hash_name": "AK-47 | Inheritance (Battle-Scarred)"
+  },
+  {
+    "id": 19609,
+    "name": "AK-47 | 传承 (久经沙场)",
+    "market_hash_name": "AK-47 | Inheritance (Field-Tested)"
+  },
+  {
+    "id": 19612,
+    "name": "AK-47 | 传承 (破损不堪)",
+    "market_hash_name": "AK-47 | Inheritance (Well-Worn)"
+  },
+  {
+    "id": 19615,
+    "name": "AK-47（StatTrak™） | 传承 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Inheritance (Battle-Scarred)"
+  },
+  {
+    "id": 19616,
+    "name": "AK-47（StatTrak™） | 传承 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Inheritance (Well-Worn)"
+  },
+  {
+    "id": 19619,
+    "name": "AK-47 | 传承 (略有磨损)",
+    "market_hash_name": "AK-47 | Inheritance (Minimal Wear)"
+  },
+  {
+    "id": 19620,
+    "name": "AK-47（StatTrak™） | 传承 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Inheritance (Field-Tested)"
+  },
+  {
+    "id": 19653,
+    "name": "AK-47 | 传承 (崭新出厂)",
+    "market_hash_name": "AK-47 | Inheritance (Factory New)"
+  },
+  {
+    "id": 19654,
+    "name": "AK-47（StatTrak™） | 传承 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Inheritance (Minimal Wear)"
+  },
+  {
+    "id": 19679,
+    "name": "AK-47（StatTrak™） | 传承 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Inheritance (Factory New)"
+  },
+  {
+    "id": 20329,
+    "name": "AK-47 | 局外人 (崭新出厂)",
+    "market_hash_name": "AK-47 | The Outsiders (Factory New)"
+  },
+  {
+    "id": 20330,
+    "name": "AK-47 | 局外人 (略有磨损)",
+    "market_hash_name": "AK-47 | The Outsiders (Minimal Wear)"
+  },
+  {
+    "id": 20331,
+    "name": "AK-47 | 局外人 (久经沙场)",
+    "market_hash_name": "AK-47 | The Outsiders (Field-Tested)"
+  },
+  {
+    "id": 20332,
+    "name": "AK-47 | 局外人 (破损不堪)",
+    "market_hash_name": "AK-47 | The Outsiders (Well-Worn)"
+  },
+  {
+    "id": 20333,
+    "name": "AK-47 | 局外人 (战痕累累)",
+    "market_hash_name": "AK-47 | The Outsiders (Battle-Scarred)"
+  },
+  {
+    "id": 20334,
+    "name": "AK-47（StatTrak™） | 局外人 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | The Outsiders (Battle-Scarred)"
+  },
+  {
+    "id": 20335,
+    "name": "AK-47（StatTrak™） | 局外人 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | The Outsiders (Factory New)"
+  },
+  {
+    "id": 20336,
+    "name": "AK-47（StatTrak™） | 局外人 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | The Outsiders (Minimal Wear)"
+  },
+  {
+    "id": 20337,
+    "name": "AK-47（StatTrak™） | 局外人 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | The Outsiders (Field-Tested)"
+  },
+  {
+    "id": 20338,
+    "name": "AK-47（StatTrak™） | 局外人 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | The Outsiders (Well-Worn)"
+  },
+  {
+    "id": 20489,
+    "name": "AK-47 | 交叉渐变 (崭新出厂)",
+    "market_hash_name": "AK-47 | Crossfade (Factory New)"
+  },
+  {
+    "id": 20490,
+    "name": "AK-47 | 交叉渐变 (略有磨损)",
+    "market_hash_name": "AK-47 | Crossfade (Minimal Wear)"
+  },
+  {
+    "id": 20491,
+    "name": "AK-47 | 交叉渐变 (久经沙场)",
+    "market_hash_name": "AK-47 | Crossfade (Field-Tested)"
+  },
+  {
+    "id": 20492,
+    "name": "AK-47 | 交叉渐变 (破损不堪)",
+    "market_hash_name": "AK-47 | Crossfade (Well-Worn)"
+  },
+  {
+    "id": 20493,
+    "name": "AK-47 | 交叉渐变 (战痕累累)",
+    "market_hash_name": "AK-47 | Crossfade (Battle-Scarred)"
+  },
+  {
+    "id": 20535,
+    "name": "AK-47 | 怪兽在B (崭新出厂)",
+    "market_hash_name": "AK-47 | B the Monster (Factory New)"
+  },
+  {
+    "id": 20536,
+    "name": "AK-47 | 怪兽在B (略有磨损)",
+    "market_hash_name": "AK-47 | B the Monster (Minimal Wear)"
+  },
+  {
+    "id": 20537,
+    "name": "AK-47 | 怪兽在B (久经沙场)",
+    "market_hash_name": "AK-47 | B the Monster (Field-Tested)"
+  },
+  {
+    "id": 20538,
+    "name": "AK-47 | 怪兽在B (破损不堪)",
+    "market_hash_name": "AK-47 | B the Monster (Well-Worn)"
+  },
+  {
+    "id": 20539,
+    "name": "AK-47 | 怪兽在B (战痕累累)",
+    "market_hash_name": "AK-47 | B the Monster (Battle-Scarred)"
+  },
+  {
+    "id": 20653,
+    "name": "AK-47 | 橄榄迷彩 (崭新出厂)",
+    "market_hash_name": "AK-47 | Olive Polycam (Factory New)"
+  },
+  {
+    "id": 20654,
+    "name": "AK-47 | 橄榄迷彩 (略有磨损)",
+    "market_hash_name": "AK-47 | Olive Polycam (Minimal Wear)"
+  },
+  {
+    "id": 20655,
+    "name": "AK-47 | 橄榄迷彩 (久经沙场)",
+    "market_hash_name": "AK-47 | Olive Polycam (Field-Tested)"
+  },
+  {
+    "id": 20656,
+    "name": "AK-47 | 橄榄迷彩 (破损不堪)",
+    "market_hash_name": "AK-47 | Olive Polycam (Well-Worn)"
+  },
+  {
+    "id": 20657,
+    "name": "AK-47 | 橄榄迷彩 (战痕累累)",
+    "market_hash_name": "AK-47 | Olive Polycam (Battle-Scarred)"
+  },
+  {
+    "id": 21495,
+    "name": "AK-47 | 寒翠 (崭新出厂)",
+    "market_hash_name": "AK-47 | Wintergreen (Factory New)"
+  },
+  {
+    "id": 21496,
+    "name": "AK-47 | 寒翠 (略有磨损)",
+    "market_hash_name": "AK-47 | Wintergreen (Minimal Wear)"
+  },
+  {
+    "id": 21497,
+    "name": "AK-47 | 寒翠 (久经沙场)",
+    "market_hash_name": "AK-47 | Wintergreen (Field-Tested)"
+  },
+  {
+    "id": 21498,
+    "name": "AK-47 | 寒翠 (破损不堪)",
+    "market_hash_name": "AK-47 | Wintergreen (Well-Worn)"
+  },
+  {
+    "id": 21499,
+    "name": "AK-47 | 寒翠 (战痕累累)",
+    "market_hash_name": "AK-47 | Wintergreen (Battle-Scarred)"
+  },
+  {
+    "id": 21519,
+    "name": "AK-47 | 灰变迷彩 (崭新出厂)",
+    "market_hash_name": "AK-47 | VariCamo Grey (Factory New)"
+  },
+  {
+    "id": 21520,
+    "name": "AK-47 | 灰变迷彩 (略有磨损)",
+    "market_hash_name": "AK-47 | VariCamo Grey (Minimal Wear)"
+  },
+  {
+    "id": 21521,
+    "name": "AK-47 | 灰变迷彩 (久经沙场)",
+    "market_hash_name": "AK-47 | VariCamo Grey (Field-Tested)"
+  },
+  {
+    "id": 21522,
+    "name": "AK-47 | 灰变迷彩 (破损不堪)",
+    "market_hash_name": "AK-47 | VariCamo Grey (Well-Worn)"
+  },
+  {
+    "id": 21523,
+    "name": "AK-47 | 灰变迷彩 (战痕累累)",
+    "market_hash_name": "AK-47 | VariCamo Grey (Battle-Scarred)"
+  },
+  {
+    "id": 21577,
+    "name": "AK-47 | 午夜层压板 (崭新出厂)",
+    "market_hash_name": "AK-47 | Midnight Laminate (Factory New)"
+  },
+  {
+    "id": 21578,
+    "name": "AK-47 | 午夜层压板 (略有磨损)",
+    "market_hash_name": "AK-47 | Midnight Laminate (Minimal Wear)"
+  },
+  {
+    "id": 21631,
+    "name": "AK-47 | 新红浪潮 (崭新出厂)",
+    "market_hash_name": "AK-47 | Nouveau Rouge (Factory New)"
+  },
+  {
+    "id": 21632,
+    "name": "AK-47 | 新红浪潮 (略有磨损)",
+    "market_hash_name": "AK-47 | Nouveau Rouge (Minimal Wear)"
+  },
+  {
+    "id": 21633,
+    "name": "AK-47 | 新红浪潮 (久经沙场)",
+    "market_hash_name": "AK-47 | Nouveau Rouge (Field-Tested)"
+  },
+  {
+    "id": 21730,
+    "name": "AK-47 | 灼心怒焰 (崭新出厂)",
+    "market_hash_name": "AK-47 | Searing Rage (Factory New)"
+  },
+  {
+    "id": 21947,
+    "name": "AK-47 | 午夜层压板 (久经沙场)",
+    "market_hash_name": "AK-47 | Midnight Laminate (Field-Tested)"
+  },
+  {
+    "id": 21948,
+    "name": "AK-47 | 午夜层压板 (破损不堪)",
+    "market_hash_name": "AK-47 | Midnight Laminate (Well-Worn)"
+  },
+  {
+    "id": 21971,
+    "name": "AK-47 | 午夜层压板 (战痕累累)",
+    "market_hash_name": "AK-47 | Midnight Laminate (Battle-Scarred)"
+  },
+  {
+    "id": 22013,
+    "name": "AK-47 | 新红浪潮 (破损不堪)",
+    "market_hash_name": "AK-47 | Nouveau Rouge (Well-Worn)"
+  },
+  {
+    "id": 22014,
+    "name": "AK-47 | 新红浪潮 (战痕累累)",
+    "market_hash_name": "AK-47 | Nouveau Rouge (Battle-Scarred)"
+  },
+  {
+    "id": 22105,
+    "name": "AK-47 | 灼心怒焰 (略有磨损)",
+    "market_hash_name": "AK-47 | Searing Rage (Minimal Wear)"
+  },
+  {
+    "id": 22106,
+    "name": "AK-47 | 灼心怒焰 (久经沙场)",
+    "market_hash_name": "AK-47 | Searing Rage (Field-Tested)"
+  },
+  {
+    "id": 22107,
+    "name": "AK-47 | 灼心怒焰 (破损不堪)",
+    "market_hash_name": "AK-47 | Searing Rage (Well-Worn)"
+  },
+  {
+    "id": 22108,
+    "name": "AK-47 | 灼心怒焰 (战痕累累)",
+    "market_hash_name": "AK-47 | Searing Rage (Battle-Scarred)"
+  },
+  {
+    "id": 22109,
+    "name": "AK-47（StatTrak™） | 灼心怒焰 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Searing Rage (Battle-Scarred)"
+  },
+  {
+    "id": 22110,
+    "name": "AK-47（StatTrak™） | 灼心怒焰 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Searing Rage (Factory New)"
+  },
+  {
+    "id": 22111,
+    "name": "AK-47（StatTrak™） | 灼心怒焰 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Searing Rage (Minimal Wear)"
+  },
+  {
+    "id": 22112,
+    "name": "AK-47（StatTrak™） | 灼心怒焰 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Searing Rage (Field-Tested)"
+  },
+  {
+    "id": 22113,
+    "name": "AK-47（StatTrak™） | 灼心怒焰 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Searing Rage (Well-Worn)"
+  },
+  {
+    "id": 23871,
+    "name": "AK-47 | 流金王朝 (久经沙场)",
+    "market_hash_name": "AK-47 | The Oligarch (Field-Tested)"
+  },
+  {
+    "id": 23872,
+    "name": "AK-47 | 流金王朝 (崭新出厂)",
+    "market_hash_name": "AK-47 | The Oligarch (Factory New)"
+  },
+  {
+    "id": 23873,
+    "name": "AK-47 | 流金王朝 (战痕累累)",
+    "market_hash_name": "AK-47 | The Oligarch (Battle-Scarred)"
+  },
+  {
+    "id": 23874,
+    "name": "AK-47 | 流金王朝 (略有磨损)",
+    "market_hash_name": "AK-47 | The Oligarch (Minimal Wear)"
+  },
+  {
+    "id": 23875,
+    "name": "AK-47 | 流金王朝 (破损不堪)",
+    "market_hash_name": "AK-47 | The Oligarch (Well-Worn)"
+  },
+  {
+    "id": 23876,
+    "name": "AK-47（StatTrak™） | 流金王朝 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | The Oligarch (Field-Tested)"
+  },
+  {
+    "id": 23877,
+    "name": "AK-47（StatTrak™） | 流金王朝 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | The Oligarch (Factory New)"
+  },
+  {
+    "id": 23878,
+    "name": "AK-47（StatTrak™） | 流金王朝 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | The Oligarch (Battle-Scarred)"
+  },
+  {
+    "id": 23879,
+    "name": "AK-47（StatTrak™） | 流金王朝 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | The Oligarch (Minimal Wear)"
+  },
+  {
+    "id": 23880,
+    "name": "AK-47（StatTrak™） | 流金王朝 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | The Oligarch (Well-Worn)"
+  },
+  {
+    "id": 24994,
+    "name": "AK-47 | 突破 (崭新出厂)",
+    "market_hash_name": "AK-47 | Breakthrough (Factory New)"
+  },
+  {
+    "id": 24995,
+    "name": "AK-47 | 突破 (略有磨损)",
+    "market_hash_name": "AK-47 | Breakthrough (Minimal Wear)"
+  },
+  {
+    "id": 24996,
+    "name": "AK-47 | 突破 (久经沙场)",
+    "market_hash_name": "AK-47 | Breakthrough (Field-Tested)"
+  },
+  {
+    "id": 24997,
+    "name": "AK-47 | 突破 (破损不堪)",
+    "market_hash_name": "AK-47 | Breakthrough (Well-Worn)"
+  },
+  {
+    "id": 24998,
+    "name": "AK-47 | 突破 (战痕累累)",
+    "market_hash_name": "AK-47 | Breakthrough (Battle-Scarred)"
+  },
+  {
+    "id": 25089,
+    "name": "AK-47 | 爱神 (崭新出厂)",
+    "market_hash_name": "AK-47 | Aphrodite (Factory New)"
+  },
+  {
+    "id": 25090,
+    "name": "AK-47 | 爱神 (略有磨损)",
+    "market_hash_name": "AK-47 | Aphrodite (Minimal Wear)"
+  },
+  {
+    "id": 25091,
+    "name": "AK-47 | 爱神 (久经沙场)",
+    "market_hash_name": "AK-47 | Aphrodite (Field-Tested)"
+  },
+  {
+    "id": 25092,
+    "name": "AK-47 | 爱神 (破损不堪)",
+    "market_hash_name": "AK-47 | Aphrodite (Well-Worn)"
+  },
+  {
+    "id": 25093,
+    "name": "AK-47 | 爱神 (战痕累累)",
+    "market_hash_name": "AK-47 | Aphrodite (Battle-Scarred)"
+  },
+  {
+    "id": 25119,
+    "name": "AK-47 | 翔鹤 (崭新出厂)",
+    "market_hash_name": "AK-47 | Crane Flight (Factory New)"
+  },
+  {
+    "id": 25120,
+    "name": "AK-47 | 翔鹤 (略有磨损)",
+    "market_hash_name": "AK-47 | Crane Flight (Minimal Wear)"
+  },
+  {
+    "id": 25121,
+    "name": "AK-47 | 翔鹤 (久经沙场)",
+    "market_hash_name": "AK-47 | Crane Flight (Field-Tested)"
+  },
+  {
+    "id": 25122,
+    "name": "AK-47 | 翔鹤 (破损不堪)",
+    "market_hash_name": "AK-47 | Crane Flight (Well-Worn)"
+  },
+  {
+    "id": 25123,
+    "name": "AK-47 | 翔鹤 (战痕累累)",
+    "market_hash_name": "AK-47 | Crane Flight (Battle-Scarred)"
+  },
+  {
+    "id": 25124,
+    "name": "AK-47（StatTrak™） | 翔鹤 (战痕累累)",
+    "market_hash_name": "StatTrak™ AK-47 | Crane Flight (Battle-Scarred)"
+  },
+  {
+    "id": 25125,
+    "name": "AK-47（StatTrak™） | 翔鹤 (崭新出厂)",
+    "market_hash_name": "StatTrak™ AK-47 | Crane Flight (Factory New)"
+  },
+  {
+    "id": 25126,
+    "name": "AK-47（StatTrak™） | 翔鹤 (略有磨损)",
+    "market_hash_name": "StatTrak™ AK-47 | Crane Flight (Minimal Wear)"
+  },
+  {
+    "id": 25127,
+    "name": "AK-47（StatTrak™） | 翔鹤 (久经沙场)",
+    "market_hash_name": "StatTrak™ AK-47 | Crane Flight (Field-Tested)"
+  },
+  {
+    "id": 25128,
+    "name": "AK-47（StatTrak™） | 翔鹤 (破损不堪)",
+    "market_hash_name": "StatTrak™ AK-47 | Crane Flight (Well-Worn)"
+  },
+  {
+    "id": 25841,
+    "name": "AK-47（纪念品） | 怪兽在B (破损不堪)",
+    "market_hash_name": "Souvenir AK-47 | B the Monster (Well-Worn)"
+  },
+  {
+    "id": 25842,
+    "name": "AK-47（纪念品） | 怪兽在B (略有磨损)",
+    "market_hash_name": "Souvenir AK-47 | B the Monster (Minimal Wear)"
+  },
+  {
+    "id": 25843,
+    "name": "AK-47（纪念品） | 怪兽在B (久经沙场)",
+    "market_hash_name": "Souvenir AK-47 | B the Monster (Field-Tested)"
+  },
+  {
+    "id": 25844,
+    "name": "AK-47（纪念品） | 怪兽在B (崭新出厂)",
+    "market_hash_name": "Souvenir AK-47 | B the Monster (Factory New)"
+  },
+  {
+    "id": 25845,
+    "name": "AK-47（纪念品） | 怪兽在B (战痕累累)",
+    "market_hash_name": "Souvenir AK-47 | B the Monster (Battle-Scarred)"
+  }
+]
